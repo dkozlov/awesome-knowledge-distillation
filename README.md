@@ -20,9 +20,6 @@
 ## PyTorch
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer)
 
-## Keras
-- [Soft weight-sharing for Neural Network compression](https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression)
-
 ## Torch
 - [Distilling knowledge to specialist ConvNets for clustered classification ](https://github.com/natoromano/specialistnets)
 
