@@ -27,4 +27,4 @@
 - [Experiments-with-Distilling-Knowledge](https://github.com/usholanb/Experiments-with-Distilling-Knowledge)
 
 ## Tensorflow
-- [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://github.com/chengshengchan/model_compression)[paper](https://arxiv.org/abs/1610.09650)
+- [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://github.com/chengshengchan/model_compression), [paper](https://arxiv.org/abs/1610.09650)
