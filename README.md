@@ -42,3 +42,7 @@
 ## Tensorflow
 - [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://github.com/chengshengchan/model_compression)
 - [Data-free Knowledge Distillation for Deep Neural Networks](https://github.com/iRapha/replayed_distillation)
+
+## Caffe
+- [KnowledgeDistillation Layer (Caffe implementation)](https://github.com/wentianli/knowledge_distillation_caffe)
+- [Knowledge distillation, realized in caffe ](https://github.com/smn2010/caffe_kdistill)
