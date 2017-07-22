@@ -34,6 +34,7 @@
 
 ## Theano
 - [FitNets: Hints for Thin Deep Nets](https://github.com/net-titech/distillation/tree/master/FitNets)
+- [Transfer knowledge from a large DNN or an ensemble of DNNs into a small DNN](https://github.com/tejasgodambe/knowledge-distillation)
 
 ## Lasagne + Theano
 - [Experiments-with-Distilling-Knowledge](https://github.com/usholanb/Experiments-with-Distilling-Knowledge)
