@@ -24,6 +24,9 @@
 ## PyTorch
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer)
 
+## Lua
+- [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
+
 ## Torch
 - [Distilling knowledge to specialist ConvNets for clustered classification ](https://github.com/natoromano/specialistnets)
 - [Sequence-Level Knowledge Distillation](https://github.com/harvardnlp/seq2seq-attn), [Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
