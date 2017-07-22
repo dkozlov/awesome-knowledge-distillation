@@ -43,6 +43,7 @@
 ## Tensorflow
 - [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://github.com/chengshengchan/model_compression)
 - [Distillation](https://github.com/suhangpro/distillation)
+- [An example application of neural network distillation to MNIST](https://github.com/akamaus/mnist-distill)
 - [Data-free Knowledge Distillation for Deep Neural Networks](https://github.com/iRapha/replayed_distillation)
 
 ## Caffe
