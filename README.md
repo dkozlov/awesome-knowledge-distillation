@@ -9,7 +9,7 @@
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928), Sergey Zagoruyko, Nikos Komodakis, 2016
 - [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550), Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio, 2015
 - [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/abs/1610.09650), Bharat Bhusan Sau, Vineeth N. Balasubramanian, 2016
-- [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947), Yoon Kim, Alexander M. Rush, 2016
+- [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947), [deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/seq-knowledge-distillation.md), Yoon Kim, Alexander M. Rush, 2016
 
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
@@ -25,7 +25,7 @@
 
 ## Torch
 - [Distilling knowledge to specialist ConvNets for clustered classification ](https://github.com/natoromano/specialistnets)
-- [Sequence-Level Knowledge Distillation](https://github.com/harvardnlp/seq2seq-attn, https://github.com/harvardnlp/nmt-android)
+- [Sequence-Level Knowledge Distillation](https://github.com/harvardnlp/seq2seq-attn), [Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
 
 ## Lasagne + Theano
 - [Experiments-with-Distilling-Knowledge](https://github.com/usholanb/Experiments-with-Distilling-Knowledge)
