@@ -45,6 +45,7 @@
 - [Distillation](https://github.com/suhangpro/distillation)
 - [An example application of neural network distillation to MNIST](https://github.com/akamaus/mnist-distill)
 - [Data-free Knowledge Distillation for Deep Neural Networks](https://github.com/iRapha/replayed_distillation)
+- [Inspired by net2net, network distillation ](https://github.com/luzai/NetworkCompress)
 
 ## Caffe
 - [KnowledgeDistillation Layer (Caffe implementation)](https://github.com/wentianli/knowledge_distillation_caffe)
