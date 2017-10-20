@@ -51,3 +51,6 @@
 - [KnowledgeDistillation Layer (Caffe implementation)](https://github.com/wentianli/knowledge_distillation_caffe)
 - [Knowledge distillation, realized in caffe ](https://github.com/smn2010/caffe_kdistill)
 - [Cross Modal Distillation for Supervision Transfer](https://github.com/xiaolonw/fast-rcnn-distillation)
+
+## Keras
+- [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras)
