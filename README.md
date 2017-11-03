@@ -10,6 +10,7 @@
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928), Sergey Zagoruyko, Nikos Komodakis, 2016
 - [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550), Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio, 2015
 - [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/abs/1610.09650), Bharat Bhusan Sau, Vineeth N. Balasubramanian, 2016
+- [Knowledge Distillation for Small-footprint Highway Networks](https://arxiv.org/abs/1608.00892), Liang Lu, Michelle Guo, Steve Renals, 2016
 - [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947), [deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/seq-knowledge-distillation.md), Yoon Kim, Alexander M. Rush, 2016
 - [Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
 - [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/abs/1707.01219), Zehao Huang, Naiyan Wang, 2017
