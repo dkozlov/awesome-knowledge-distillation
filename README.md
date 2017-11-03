@@ -12,6 +12,8 @@
 - [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/abs/1610.09650), Bharat Bhusan Sau, Vineeth N. Balasubramanian, 2016
 - [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947), [deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/seq-knowledge-distillation.md), Yoon Kim, Alexander M. Rush, 2016
 - [Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
+- [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer] (https://arxiv.org/abs/1707.01219), Zehao Huang, Naiyan Wang, 2017
+- [Learning Loss for Knowledge Distillation with Conditional Adversarial Networks] (https://arxiv.org/abs/1709.00513), Zheng Xu, Yen-Chang Hsu, Jiawei Huang, 2017
 
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
