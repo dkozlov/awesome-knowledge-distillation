@@ -18,6 +18,7 @@
 - [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/abs/1707.01220), Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang, 2017
 - [Knowledge Projection for Deep Neural Networks](https://arxiv.org/abs/1710.09505), Zhi Zhang, Guanghan Ning, Zhihai He, 2017
 - [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/abs/1711.02613), Elliot J. Crowley, Gavin Gray, Amos Storkey, 2017
+- [Local Affine Approximators for Improving Knowledge Transfer](https://lld-workshop.github.io/papers/LLD_2017_paper_28.pdf), Suraj Srinivas and Francois Fleuret, 2017
 
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
