@@ -16,7 +16,6 @@
 - [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/abs/1707.01219), Zehao Huang, Naiyan Wang, 2017
 - [Learning Loss for Knowledge Distillation with Conditional Adversarial Networks](https://arxiv.org/abs/1709.00513), Zheng Xu, Yen-Chang Hsu, Jiawei Huang, 2017
 - [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/abs/1707.01220), Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang, 2017
-- [Data-Free Knowledge Distillation for Deep Neural Networks](https://arxiv.org/abs/1710.07535), Raphael Gontijo Lopes, Stefano Fenu, Thad Starner, 2017
 - [Knowledge Projection for Deep Neural Networks](https://arxiv.org/abs/1710.09505), Zhi Zhang, Guanghan Ning, Zhihai He, 2017
 - [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/abs/1711.02613), Elliot J. Crowley, Gavin Gray, Amos Storkey, 2017
 
