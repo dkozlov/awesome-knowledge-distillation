@@ -12,6 +12,7 @@
 - [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/abs/1610.09650), Bharat Bhusan Sau, Vineeth N. Balasubramanian, 2016
 - [Knowledge Distillation for Small-footprint Highway Networks](https://arxiv.org/abs/1608.00892), Liang Lu, Michelle Guo, Steve Renals, 2016
 - [Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947), [deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/seq-knowledge-distillation.md), Yoon Kim, Alexander M. Rush, 2016
+- [MobileID: Face Model Compression by Distilling Knowledge from Neurons](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf), Ping Luo,  Zhenyao Zhu, Ziwei Liu, Xiaogang Wang and Xiaoou Tang, 2016
 - [Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
 - [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/abs/1707.01219), Zehao Huang, Naiyan Wang, 2017
 - [Learning Loss for Knowledge Distillation with Conditional Adversarial Networks](https://arxiv.org/abs/1709.00513), Zheng Xu, Yen-Chang Hsu, Jiawei Huang, 2017
@@ -22,7 +23,6 @@
 - [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](http://papers.nips.cc/paper/6635-best-of-both-worlds-transferring-knowledge-from-discriminative-learning-to-a-generative-visual-dialog-model.pdf), Jiasen Lu1, Anitha Kannan, Jianwei Yang, Devi Parikh, Dhruv Batra 2017
 - [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf), Guobin Chen, Wongun Choi, Xiang Yu, Tony Han, Manmohan Chandraker, 2017
 - [Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification](https://arxiv.org/abs/1709.02929),Chong Wang, Xipeng Lan and Yangang Zhang, 2017
-- [MobileID: Face Model Compression by Distilling Knowledge from Neurons](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf), Ping Luo,  Zhenyao Zhu, Ziwei Liu, Xiaogang Wang and Xiaoou Tang, 2017
 
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
