@@ -19,6 +19,10 @@
 - [Knowledge Projection for Deep Neural Networks](https://arxiv.org/abs/1710.09505), Zhi Zhang, Guanghan Ning, Zhihai He, 2017
 - [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/abs/1711.02613), Elliot J. Crowley, Gavin Gray, Amos Storkey, 2017
 - [Local Affine Approximators for Improving Knowledge Transfer](https://lld-workshop.github.io/papers/LLD_2017_paper_28.pdf), Suraj Srinivas and Francois Fleuret, 2017
+- [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](http://papers.nips.cc/paper/6635-best-of-both-worlds-transferring-knowledge-from-discriminative-learning-to-a-generative-visual-dialog-model.pdf), Jiasen Lu1, Anitha Kannan, Jianwei Yang, Devi Parikh, Dhruv Batra 2017
+- [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf), Guobin Chen, Wongun Choi, Xiang Yu, Tony Han, Manmohan Chandraker, 2017
+- [Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification](https://arxiv.org/abs/1709.02929),Chong Wang, Xipeng Lan and Yangang Zhang, 2017
+- [MobileID: Face Model Compression by Distilling Knowledge from Neurons](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf), Ping Luo,  Zhenyao Zhu, Ziwei Liu, Xiaogang Wang and Xiaoou Tang, 2017
 
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
@@ -31,6 +35,7 @@
 
 ## PyTorch
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer)
+- [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://github.com/jiasenlu/visDial.pytorch)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
@@ -55,6 +60,7 @@
 - [Inspired by net2net, network distillation ](https://github.com/luzai/NetworkCompress)
 
 ## Caffe
+- [Face Model Compression by Distilling Knowledge from Neurons](https://github.com/liuziwei7/mobile-id)
 - [KnowledgeDistillation Layer (Caffe implementation)](https://github.com/wentianli/knowledge_distillation_caffe)
 - [Knowledge distillation, realized in caffe ](https://github.com/smn2010/caffe_kdistill)
 - [Cross Modal Distillation for Supervision Transfer](https://github.com/xiaolonw/fast-rcnn-distillation)
