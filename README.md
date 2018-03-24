@@ -33,6 +33,7 @@
 - [Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net](https://arxiv.org/pdf/1708.04106.pdf), Zihao Liu, Qi Liu, Tao Liu, Yanzhi Wang, Wujie Wen, 2017
 - [Interpreting Deep Classifiers by Visual Distillation of Dark Knowledge](https://arxiv.org/pdf/1803.04042.pdf), Kai Xu, Dae Hoon Park, Chang Yi, Charles Sutton, 2018
 - [Efficient Neural Architecture Search via Parameters Sharing](https://arxiv.org/pdf/1802.03268), Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean, 2018
+- [Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Rich Caruana, Giles Hooker, Albert Gordo, 2018
 
 ***
 ### Videos
