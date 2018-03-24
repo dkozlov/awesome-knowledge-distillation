@@ -47,6 +47,7 @@
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer)
 - [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://github.com/jiasenlu/visDial.pytorch)
 - [Interpreting Deep Classifier by Visual Distillation of Dark Knowledge](https://github.com/xukai92/darksight)
+- [A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility](https://github.com/peterliht/knowledge-distillation-pytorch)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
@@ -79,3 +80,4 @@
 
 ## Keras
 - [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras)
+- [keras google-vision's distillation ](https://github.com/GINK03/keras-distillation)
