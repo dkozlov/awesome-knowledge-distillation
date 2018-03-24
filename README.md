@@ -16,6 +16,7 @@
 - [Sequence-Level Knowledge Distillation](https://arxiv.org/pdf/1606.07947), [deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/seq-knowledge-distillation.md), Yoon Kim, Alexander M. Rush, 2016
 - [MobileID: Face Model Compression by Distilling Knowledge from Neurons](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf), Ping Luo,  Zhenyao Zhu, Ziwei Liu, Xiaogang Wang and Xiaoou Tang, 2016
 - [Recurrent Neural Network Training with Dark Knowledge Transfer](https://arxiv.org/pdf/1505.04630.pdf), Zhiyuan Tang, Dong Wang, Zhiyong Zhang, 2016
+- [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928.pdf), Sergey Zagoruyko, Nikos Komodakis, 2016
 - [Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
 - [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219), Zehao Huang, Naiyan Wang, 2017
 - [Learning Loss for Knowledge Distillation with Conditional Adversarial Networks](https://arxiv.org/pdf/1709.00513), Zheng Xu, Yen-Chang Hsu, Jiawei Huang, 2017
@@ -71,6 +72,7 @@
 - [Data-free Knowledge Distillation for Deep Neural Networks](https://github.com/iRapha/replayed_distillation)
 - [Inspired by net2net, network distillation ](https://github.com/luzai/NetworkCompress)
 - [Deep Reinforcement Learning, knowledge transfer](https://github.com/arnomoonens/DeepRL/tree/master/agents/knowledgetransfer)
+- [Knowledge Distillation using Tensorflow](https://github.com/DushyantaDhyani/kdtf)
 
 ## Caffe
 - [Face Model Compression by Distilling Knowledge from Neurons](https://github.com/liuziwei7/mobile-id)
@@ -81,3 +83,4 @@
 ## Keras
 - [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras)
 - [keras google-vision's distillation ](https://github.com/GINK03/keras-distillation)
+- [Distilling the knowledge in a Neural Network](https://github.com/tejasgodambe/knowledge-distillation)
