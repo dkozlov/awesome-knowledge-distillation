@@ -2,12 +2,15 @@
 ================================
 
 ### Papers
+- [Combining labeled and unlabeled data with co-training](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf), A. Blum, T. Mitchell, 1998 
 - [Model Compression](http://www.cs.cornell.edu/~caruana/compression.kdd06.pdf), Rich Caruana, 2006
 - [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf), Geoffrey Hinton , OriolVinyals & Jeff Dean, 2014
+- [Learning with Pseudo-Ensembles](https://arxiv.org/pdf/1412.4864.pdf), Philip Bachman, Ouais Alsharif, Doina Precup, 2014
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf), Hinton, J.Dean, 2015
 - [Cross Modal Distillation for Supervision Transfer](https://arxiv.org/pdf/1507.00448), Saurabh Gupta, Judy Hoffman, Jitendra Malik, 2015
 - [Heterogeneous Knowledge Transfer in Video Emotion Recognition, Attribution and Summarization](https://arxiv.org/pdf/1511.04798), Baohan Xu, Yanwei Fu, Yu-Gang Jiang, Boyang Li, Leonid Sigal, 2015
 - [Distilling Model Knowledge](https://arxiv.org/pdf/1510.02437.pdf), George Papamakarios, 2015
+- [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf), Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, Ananthram Swami, 2016
 - [Do deep convolutional nets really need to be deep and convolutional?](https://arxiv.org/pdf/1603.05691.pdf), Gregor Urban, Krzysztof J. Geras, Samira Ebrahimi Kahou, Ozlem Aslan, Shengjie Wang, Rich Caruana, Abdelrahman Mohamed, Matthai Philipose, Matt Richardson, 2016
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928), Sergey Zagoruyko, Nikos Komodakis, 2016
 - [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550), Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, Yoshua Bengio, 2015
@@ -31,6 +34,7 @@
 - [Revisiting knowledge transfer for training object class detectors](https://arxiv.org/pdf/1708.06128.pdf), Jasper Uijlings, Stefan Popov, Vittorio Ferrari, 2017
 - [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf), Junho Yim, Donggyu Joo, Jihoon Bae, Junmo Kim, 2017
 - [Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net](https://arxiv.org/pdf/1708.04106.pdf), Zihao Liu, Qi Liu, Tao Liu, Yanzhi Wang, Wujie Wen, 2017
+- [Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/pdf/1712.04440.pdf), Ilija Radosavovic, Piotr Dollár, Ross Girshick, Georgia Gkioxari, Kaiming He, 2017
 - [Interpreting Deep Classifiers by Visual Distillation of Dark Knowledge](https://arxiv.org/pdf/1803.04042.pdf), Kai Xu, Dae Hoon Park, Chang Yi, Charles Sutton, 2018
 - [Efficient Neural Architecture Search via Parameters Sharing](https://arxiv.org/pdf/1802.03268), Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean, 2018
 - [Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Rich Caruana, Giles Hooker, Albert Gordo, 2018
