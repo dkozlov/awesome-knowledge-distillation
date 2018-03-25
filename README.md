@@ -62,6 +62,7 @@
 - [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://github.com/jiasenlu/visDial.pytorch)
 - [Interpreting Deep Classifier by Visual Distillation of Dark Knowledge](https://github.com/xukai92/darksight)
 - [A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility](https://github.com/peterliht/knowledge-distillation-pytorch)
+- [Mean teachers are better role models](https://github.com/CuriousAI/mean-teacher)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
