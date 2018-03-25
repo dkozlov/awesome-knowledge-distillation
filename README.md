@@ -10,6 +10,7 @@
 - [Cross Modal Distillation for Supervision Transfer](https://arxiv.org/pdf/1507.00448), Saurabh Gupta, Judy Hoffman, Jitendra Malik, 2015
 - [Heterogeneous Knowledge Transfer in Video Emotion Recognition, Attribution and Summarization](https://arxiv.org/pdf/1511.04798), Baohan Xu, Yanwei Fu, Yu-Gang Jiang, Boyang Li, Leonid Sigal, 2015
 - [Distilling Model Knowledge](https://arxiv.org/pdf/1510.02437.pdf), George Papamakarios, 2015
+- [Unifying distillation and privileged information](https://arxiv.org/pdf/1511.03643), David Lopez-Paz, Léon Bottou, Bernhard Schölkopf, Vladimir Vapnik, 2015
 - [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf), Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, Ananthram Swami, 2016
 - [Do deep convolutional nets really need to be deep and convolutional?](https://arxiv.org/pdf/1603.05691.pdf), Gregor Urban, Krzysztof J. Geras, Samira Ebrahimi Kahou, Ozlem Aslan, Shengjie Wang, Rich Caruana, Abdelrahman Mohamed, Matthai Philipose, Matt Richardson, 2016
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928), Sergey Zagoruyko, Nikos Komodakis, 2016
@@ -20,6 +21,8 @@
 - [MobileID: Face Model Compression by Distilling Knowledge from Neurons](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf), Ping Luo,  Zhenyao Zhu, Ziwei Liu, Xiaogang Wang and Xiaoou Tang, 2016
 - [Recurrent Neural Network Training with Dark Knowledge Transfer](https://arxiv.org/pdf/1505.04630.pdf), Zhiyuan Tang, Dong Wang, Zhiyong Zhang, 2016
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928.pdf), Sergey Zagoruyko, Nikos Komodakis, 2016
+- [Adapting Models to Signal Degradation using Distillation](https://arxiv.org/abs/1604.00433), Jong-Chyi Su, Subhransu Maji,2016
+- [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/pdf/1703.01780), Antti Tarvainen, Harri Valpola, 2017
 - [Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
 - [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219), Zehao Huang, Naiyan Wang, 2017
 - [Learning Loss for Knowledge Distillation with Conditional Adversarial Networks](https://arxiv.org/pdf/1709.00513), Zheng Xu, Yen-Chang Hsu, Jiawei Huang, 2017
@@ -38,6 +41,8 @@
 - [Interpreting Deep Classifiers by Visual Distillation of Dark Knowledge](https://arxiv.org/pdf/1803.04042.pdf), Kai Xu, Dae Hoon Park, Chang Yi, Charles Sutton, 2018
 - [Efficient Neural Architecture Search via Parameters Sharing](https://arxiv.org/pdf/1802.03268), Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean, 2018
 - [Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Rich Caruana, Giles Hooker, Albert Gordo, 2018
+- [Defensive Collaborative Multi-task Training - Defending against Adversarial Attack towards Deep Neural Networks](https://arxiv.org/pdf/1803.05123), Derek Wang, Chaoran Li, Sheng Wen, Yang Xiang, Wanlei Zhou, Surya Nepal, 2018 
+- [Deep Co-Training for Semi-Supervised Image Recognition](https://arxiv.org/pdf/1803.05984), Siyuan Qiao, Wei Shen, Zhishuai Zhang, Bo Wang, Alan Yuille, 2018
 
 ***
 ### Videos
