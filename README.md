@@ -11,7 +11,7 @@
 - [Heterogeneous Knowledge Transfer in Video Emotion Recognition, Attribution and Summarization](https://arxiv.org/pdf/1511.04798), Baohan Xu, Yanwei Fu, Yu-Gang Jiang, Boyang Li, Leonid Sigal, 2015
 - [Distilling Model Knowledge](https://arxiv.org/pdf/1510.02437.pdf), George Papamakarios, 2015
 - [Unifying distillation and privileged information](https://arxiv.org/pdf/1511.03643), David Lopez-Paz, Léon Bottou, Bernhard Schölkopf, Vladimir Vapnik, 2015
-- [Learning Using Privileged Information: Similarity Control and Knowledge Transfer], Vladimir Vapnik, Rauf Izmailov, 2015
+- [Learning Using Privileged Information: Similarity Control and Knowledge Transfer](http://www.jmlr.org/papers/volume16/vapnik15b/vapnik15b.pdf), Vladimir Vapnik, Rauf Izmailov, 2015
 - [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508.pdf), Nicolas Papernot, Patrick McDaniel, Xi Wu, Somesh Jha, Ananthram Swami, 2016
 - [Do deep convolutional nets really need to be deep and convolutional?](https://arxiv.org/pdf/1603.05691.pdf), Gregor Urban, Krzysztof J. Geras, Samira Ebrahimi Kahou, Ozlem Aslan, Shengjie Wang, Rich Caruana, Abdelrahman Mohamed, Matthai Philipose, Matt Richardson, 2016
 - [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928), Sergey Zagoruyko, Nikos Komodakis, 2016
@@ -44,6 +44,8 @@
 - [Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Rich Caruana, Giles Hooker, Albert Gordo, 2018
 - [Defensive Collaborative Multi-task Training - Defending against Adversarial Attack towards Deep Neural Networks](https://arxiv.org/pdf/1803.05123), Derek Wang, Chaoran Li, Sheng Wen, Yang Xiang, Wanlei Zhou, Surya Nepal, 2018 
 - [Deep Co-Training for Semi-Supervised Image Recognition](https://arxiv.org/pdf/1803.05984), Siyuan Qiao, Wei Shen, Zhishuai Zhang, Bo Wang, Alan Yuille, 2018
+- [Feature Distillation: DNN-Oriented JPEG Compression Against Adversarial Examples](https://arxiv.org/pdf/1803.05787), Zihao Liu, Qi Liu, Tao Liu, Yanzhi Wang, Wujie Wen, 2018
+- [Multimodal Recurrent Neural Networks with Information Transfer Layers for Indoor Scene Labeling](https://arxiv.org/pdf/1803.04687.pdf), Abrar H. Abdulnabi, Bing Shuai, Zhen Zuo, Lap-Pui Chau, Gang Wang, 2018
 
 ***
 ### Videos
