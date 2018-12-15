@@ -48,6 +48,8 @@
 - [Multimodal Recurrent Neural Networks with Information Transfer Layers for Indoor Scene Labeling](https://arxiv.org/pdf/1803.04687.pdf), Abrar H. Abdulnabi, Bing Shuai, Zhen Zuo, Lap-Pui Chau, Gang Wang, 2018
 - [Born Again Neural Networks](https://arxiv.org/abs/1805.04770), Tommaso Furlanello, Zachary C. Lipton, Michael Tschannen, Laurent Itti, Anima Anandkumar, 2018
 - [YASENN: Explaining Neural Networks via Partitioning Activation Sequences](https://arxiv.org/abs/1811.02783), Yaroslav Zharov, Denis Korzhenkov, Pavel Shvechikov, Alexander Tuzhilin, 2018
+- [Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532), Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi, 2018
+- [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233), Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi, 2018
 
 ***
 ### Videos
