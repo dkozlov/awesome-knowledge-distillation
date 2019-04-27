@@ -50,6 +50,7 @@
 - [YASENN: Explaining Neural Networks via Partitioning Activation Sequences](https://arxiv.org/abs/1811.02783), Yaroslav Zharov, Denis Korzhenkov, Pavel Shvechikov, Alexander Tuzhilin, 2018
 - [Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532), Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi, 2018
 - [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233), Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi, 2018
+- [Self-supervised knowledge distillation using singular value decomposition](http://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html), Seung Hyun Lee, Dae Ha Kim, Byung Cheol Song, 2018
 
 ***
 ### Videos
