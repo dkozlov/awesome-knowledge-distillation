@@ -91,6 +91,7 @@
 - [Inspired by net2net, network distillation ](https://github.com/luzai/NetworkCompress)
 - [Deep Reinforcement Learning, knowledge transfer](https://github.com/arnomoonens/DeepRL/tree/master/agents/knowledgetransfer)
 - [Knowledge Distillation using Tensorflow](https://github.com/DushyantaDhyani/kdtf)
+- [Knowledge Distillation Methods with Tensorflow](https://github.com/sseung0703/Knowledge_distillation_methods_wtih_Tensorflow)
 
 ## Caffe
 - [Face Model Compression by Distilling Knowledge from Neurons](https://github.com/liuziwei7/mobile-id)
