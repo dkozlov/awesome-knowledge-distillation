@@ -51,6 +51,7 @@
 - [Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532), Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi, 2018
 - [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233), Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi, 2018
 - [Self-supervised knowledge distillation using singular value decomposition](http://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html), Seung Hyun Lee, Dae Ha Kim, Byung Cheol Song, 2018
+- [Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection](https://arxiv.org/abs/1809.05884), Yongcheng Liu, Lu Sheng, Jing Shao, Junjie Yan, Shiming Xiang, Chunhong Pan, 2018
 
 ***
 ### Videos
@@ -100,6 +101,7 @@
 - [KnowledgeDistillation Layer (Caffe implementation)](https://github.com/wentianli/knowledge_distillation_caffe)
 - [Knowledge distillation, realized in caffe ](https://github.com/smn2010/caffe_kdistill)
 - [Cross Modal Distillation for Supervision Transfer](https://github.com/xiaolonw/fast-rcnn-distillation)
+- [Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection](https://github.com/Yochengliu/MLIC-KD-WSD)
 
 ## Keras
 - [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras)
