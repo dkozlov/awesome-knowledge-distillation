@@ -55,7 +55,7 @@
 - [Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks](https://arxiv.org/abs/1811.02759), Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy, 2018
 - [Deep Face Recognition Model Compression via Knowledge Transfer and Distillation](https://arxiv.org/abs/1906.00619), Jayashree Karlekar, Jiashi Feng, Zi Sian Wong, Sugiri Pranata, 2019
 - [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068), Wonpyo Park, Dongju Kim, Yan Lu, Minsu Cho, 2019
-- [Graph-based Knowledge Distillation by Multi-head Attention Network](https://arxiv.org/abs/1907.02226), Seunghyun Lee, Byung Cheol Song, BMVC2019
+- [Graph-based Knowledge Distillation by Multi-head Attention Network](https://arxiv.org/abs/1907.02226), Seunghyun Lee, Byung Cheol Song, 2019
 
 ***
 ### Videos
