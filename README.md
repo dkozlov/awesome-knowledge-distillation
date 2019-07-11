@@ -74,6 +74,7 @@
 - [Mean teachers are better role models](https://github.com/CuriousAI/mean-teacher)
 - [Neural Network Distiller by Intel AI Lab](https://github.com/NervanaSystems/distiller), [distiller/knowledge_distillation.py](https://github.com/NervanaSystems/distiller/blob/master/distiller/knowledge_distillation.py)
 - [Relational Knowledge Distillation](https://github.com/lenscloth/RKD)
+- [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://github.com/bhheo/AB_distillation)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
@@ -99,6 +100,7 @@
 - [Deep Reinforcement Learning, knowledge transfer](https://github.com/arnomoonens/DeepRL/tree/master/agents/knowledgetransfer)
 - [Knowledge Distillation using Tensorflow](https://github.com/DushyantaDhyani/kdtf)
 - [Knowledge Distillation Methods with Tensorflow](https://github.com/sseung0703/Knowledge_distillation_methods_wtih_Tensorflow)
+- [Zero-Shot Knowledge Distillation in Deep Networks in ICML2019 ](https://github.com/sseung0703/Zero-shot_Knowledge_Distillation)
 
 ## Caffe
 - [Face Model Compression by Distilling Knowledge from Neurons](https://github.com/liuziwei7/mobile-id)
