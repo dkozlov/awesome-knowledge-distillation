@@ -58,6 +58,7 @@
 - [Graph-based Knowledge Distillation by Multi-head Attention Network](https://arxiv.org/abs/1907.02226), Seunghyun Lee, Byung Cheol Song, 2019
 - [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688), Tong He, Chunhua Shen, Zhi Tian, Dong Gong, Changming Sun, Youliang Yan, 2019
 - [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/1903.04197), Yifan Liu, Ke Chen, Chris Liu, Zengchang Qin, Zhenbo Luo, Jingdong Wang, 2019
+- [Fast Human Pose Estimation](https://arxiv.org/abs/1811.05419), Feng Zhang, Xiatian Zhu, Mao Ye, 2019
 
 ***
 ### Videos
@@ -86,6 +87,7 @@
 - [Distilling knowledge to specialist ConvNets for clustered classification ](https://github.com/natoromano/specialistnets)
 - [Sequence-Level Knowledge Distillation](https://github.com/harvardnlp/seq2seq-attn), [Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
 - [cifar.torch distillation](https://github.com/samirasamadi/Distillation)
+- [Fast Human Pose Estimation Pytorch](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch)
 
 ## Theano
 - [FitNets: Hints for Thin Deep Nets](https://github.com/net-titech/distillation/tree/master/FitNets)
