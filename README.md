@@ -79,6 +79,7 @@
 - [Neural Network Distiller by Intel AI Lab](https://github.com/NervanaSystems/distiller), [distiller/knowledge_distillation.py](https://github.com/NervanaSystems/distiller/blob/master/distiller/knowledge_distillation.py)
 - [Relational Knowledge Distillation](https://github.com/lenscloth/RKD)
 - [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://github.com/bhheo/AB_distillation)
+- [Fast Human Pose Estimation Pytorch](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
@@ -87,7 +88,6 @@
 - [Distilling knowledge to specialist ConvNets for clustered classification ](https://github.com/natoromano/specialistnets)
 - [Sequence-Level Knowledge Distillation](https://github.com/harvardnlp/seq2seq-attn), [Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
 - [cifar.torch distillation](https://github.com/samirasamadi/Distillation)
-- [Fast Human Pose Estimation Pytorch](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch)
 
 ## Theano
 - [FitNets: Hints for Thin Deep Nets](https://github.com/net-titech/distillation/tree/master/FitNets)
