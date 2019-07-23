@@ -2,7 +2,8 @@
 ================================
 
 ### Papers
-- [Combining labeled and unlabeled data with co-training](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf), A. Blum, T. Mitchell, 1998 
+- [Combining labeled and unlabeled data with co-training](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf), A. Blum, T. Mitchell, 1998
+- [EnsembleMethodsinMachineLearning](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf), Thomas G. Dietterich, 2000
 - [Model Compression](http://www.cs.cornell.edu/~caruana/compression.kdd06.pdf), Rich Caruana, 2006
 - [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf), Geoffrey Hinton , OriolVinyals & Jeff Dean, 2014
 - [Learning with Pseudo-Ensembles](https://arxiv.org/pdf/1412.4864.pdf), Philip Bachman, Ouais Alsharif, Doina Precup, 2014
