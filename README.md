@@ -95,6 +95,7 @@
 - [Distilling knowledge to specialist ConvNets for clustered classification ](https://github.com/natoromano/specialistnets)
 - [Sequence-Level Knowledge Distillation](https://github.com/harvardnlp/seq2seq-attn), [Neural Machine Translation on Android](https://github.com/harvardnlp/nmt-android)
 - [cifar.torch distillation](https://github.com/samirasamadi/Distillation)
+- [ENet-SAD](https://github.com/cardwing/Codes-for-Lane-Detection)
 
 ## Theano
 - [FitNets: Hints for Thin Deep Nets](https://github.com/net-titech/distillation/tree/master/FitNets)
