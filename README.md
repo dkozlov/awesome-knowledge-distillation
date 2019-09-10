@@ -67,6 +67,7 @@
 - [MEAL: Multi-Model Ensemble via Adversarial Learning](https://arxiv.org/abs/1812.02425), Zhiqiang Shen, Zhankui He, Xiangyang Xue, 2019
 - [Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821), Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy, 2019
 - [Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher](https://arxiv.org/abs/1902.03393), Seyed-Iman Mirzadeh, Mehrdad Farajtabar, Ang Li, Hassan Ghasemzadeh, 2019
+- [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866), Byeongho Heo, Jeesoo Kim, Sangdoo Yun, Hyojin Park, Nojun Kwak, Jin Young Choi, 2019
 
 ***
 ### Videos
@@ -90,6 +91,7 @@
 - [Fast Human Pose Estimation Pytorch](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch)
 - [MEAL: Multi-Model Ensemble via Adversarial Learning](https://github.com/AaronHeee/MEAL)
 - [Using Teacher Assistants to Improve Knowledge Distillation](https://github.com/imirzadeh/Teacher-Assistant-Knowledge-Distillation)
+- [A Comprehensive Overhaul of Feature Distillation](https://github.com/clovaai/overhaul-distillation)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
