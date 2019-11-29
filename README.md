@@ -120,6 +120,7 @@
 - [Knowledge Distillation using Tensorflow](https://github.com/DushyantaDhyani/kdtf)
 - [Knowledge Distillation Methods with Tensorflow](https://github.com/sseung0703/KD_methods_with_TF)
 - [Zero-Shot Knowledge Distillation in Deep Networks in ICML2019 ](https://github.com/sseung0703/Zero-shot_Knowledge_Distillation)
+- [Knowledge_distillation_benchmark via Tensorflow2.0](https://github.com/sseung0703/Knowledge_distillation_via_TF2.0)
 
 ## Caffe
 - [Face Model Compression by Distilling Knowledge from Neurons](https://github.com/liuziwei7/mobile-id)
