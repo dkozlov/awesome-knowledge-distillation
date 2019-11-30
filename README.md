@@ -99,12 +99,6 @@
 - [MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks](https://arxiv.org/abs/1911.09418), Yunteng Luan, Hanyu Zhao, Zhi Yang, Yafei Dai, 2019
 - [Efficient Video Classification Using Fewer Frames](https://arxiv.org/abs/1902.10640), Shweta Bhardwaj, Mukundhan Srinivasan, Mitesh M. Khapra, 2019
 - [Retaining Privileged Information for Multi-Task Learning](http://web.mit.edu/lilehman/www/paper/LUPI_KDD2019.pdf), Fengyi Tang, Cao Xiao, Fei Wang, Jiayu Zhou, Li-Wei Lehman
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
