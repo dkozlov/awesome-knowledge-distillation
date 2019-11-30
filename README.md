@@ -24,7 +24,6 @@
 - [Sequence-Level Knowledge Distillation](https://arxiv.org/pdf/1606.07947), [deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes/blob/master/notes/seq-knowledge-distillation.md), Yoon Kim, Alexander M. Rush, 2016
 - [MobileID: Face Model Compression by Distilling Knowledge from Neurons](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf), Ping Luo,  Zhenyao Zhu, Ziwei Liu, Xiaogang Wang and Xiaoou Tang, 2016
 - [Recurrent Neural Network Training with Dark Knowledge Transfer](https://arxiv.org/pdf/1505.04630.pdf), Zhiyuan Tang, Dong Wang, Zhiyong Zhang, 2016
-- [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928.pdf), Sergey Zagoruyko, Nikos Komodakis, 2016
 - [Adapting Models to Signal Degradation using Distillation](https://arxiv.org/abs/1604.00433), Jong-Chyi Su, Subhransu Maji,2016
 - [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/pdf/1703.01780), Antti Tarvainen, Harri Valpola, 2017
 - [Data-Free Knowledge Distillation For Deep Neural Networks](http://raphagl.com/research/replayed-distillation/), Raphael Gontijo Lopes, Stefano Fenu, 2017 
@@ -79,6 +78,17 @@
 - [Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework](https://arxiv.org/abs/1910.12061), Srinidhi Hegde, Ranjitha Prasad, Ramya Hebbalaguppe, Vishwajith Kumar, 2019
 - [Preparing Lessons: Improve Knowledge Distillation with Better Supervision](https://arxiv.org/abs/1911.07471), Tiancheng Wen, Shenqi Lai, Xueming Qian, 2019
 - [Positive-Unlabeled Compression on the Cloud](https://arxiv.org/abs/1909.09757), Yixing Xu, Yunhe Wang, Hanting Chen, Kai Han, Chunjing Xu, Dacheng Tao, Chang Xu, 2019
+- [Variational Information Distillation for Knowledge Transfer](https://arxiv.org/abs/1904.05835), Sungsoo Ahn, Shell Xu Hu, Andreas Damianou, Neil D. Lawrence, Zhenwen Dai, 2019
+- [Knowledge Distillation via Instance Relationship Graph](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf), Yufan Liu, Jiajiong Cao, Bing Li, Chunfeng Yuan, Weiming Hu, Yangxi Li and Yunqiang Duan, 2019
+- [Knowledge Distillation via Route Constrained Optimization](https://arxiv.org/abs/1904.09149), Xiao Jin, Baoyun Peng, Yichao Wu, Yu Liu, Jiaheng Liu, Ding Liang, Junjie Yan, Xiaolin Hu, 2019
+- [Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682), Frederick Tung, Greg Mori, 2019
+- [Distilling Object Detectors with Fine-grained Feature Imitation](https://arxiv.org/abs/1906.03609), Tao Wang, Li Yuan, Xiaopeng Zhang, Jiashi Feng, 2019
+- [Knowledge Squeezed Adversarial Network Compression](https://arxiv.org/abs/1904.05100), Shu Changyong, Li Peng, Xie Yuan, Qu Yanyun, Dai Longquan, Ma Lizhuang, 2019
+- [Stagewise Knowledge Distillation](https://arxiv.org/abs/1911.06786), Akshay Kulkarni, Navid Panchi, Shital Chiddarwar, 2019
+- [Knowledge Distillation from Internal Representations](https://arxiv.org/abs/1910.03723), Gustavo Aguilar, Yuan Ling, Yu Zhang, Benjamin Yao, Xing Fan, Edward Guo, 2019
+- [Knowledge Flow: Improve Upon Your Teachers](https://arxiv.org/abs/1904.05878), Iou-Jen Liu, Jian Peng, Alexander G. Schwing, 2019
+- [Graph Representation Learning via Multi-task Knowledge Distillation](https://arxiv.org/abs/1911.05700), Jiaqi Ma, Qiaozhu Mei, 2019
+- [Deep geometric knowledge distillation with graphs](https://arxiv.org/abs/1911.03080), Carlos Lassance, Myriam Bontonou, Ghouthi Boukli Hacene, Vincent Gripon, Jian Tang, Antonio Ortega, 2019
 
 ***
 ### Videos
@@ -139,6 +149,7 @@
 - [Knowledge distillation, realized in caffe ](https://github.com/smn2010/caffe_kdistill)
 - [Cross Modal Distillation for Supervision Transfer](https://github.com/xiaolonw/fast-rcnn-distillation)
 - [Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection](https://github.com/Yochengliu/MLIC-KD-WSD)
+- [Knowledge Distillation via Instance Relationship Graph](https://github.com/yufanLIU/IRG)
 
 ## Keras
 - [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras)
