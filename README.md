@@ -56,7 +56,9 @@
 - [Self-supervised knowledge distillation using singular value decomposition](http://openaccess.thecvf.com/content_ECCV_2018/html/SEUNG_HYUN_LEE_Self-supervised_Knowledge_Distillation_ECCV_2018_paper.html), Seung Hyun Lee, Dae Ha Kim, Byung Cheol Song, 2018
 - [Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection](https://arxiv.org/abs/1809.05884), Yongcheng Liu, Lu Sheng, Jing Shao, Junjie Yan, Shiming Xiang, Chunhong Pan, 2018
 - [Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks](https://arxiv.org/abs/1811.02759), Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy, 2018
+- [A Generalized Meta-loss function for regression and classification using privileged information](https://arxiv.org/abs/1811.06885), Amina Asif, Muhammad Dawood, Fayyaz ul Amir Afsar Minhas, 2018
 - [Large scale distributed neural network training through online distillation](https://arxiv.org/abs/1804.03235), Rohan Anil, Gabriel Pereyra, Alexandre Passos, Robert Ormandi, George E. Dahl, Geoffrey E. Hinton, 2018
+- [KDGAN: Knowledge Distillation with Generative Adversarial Networks](http://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks), Xiaojie Wang, Rui Zhang, Yu Sun, Jianzhong Qi, 2018
 - [Deep Face Recognition Model Compression via Knowledge Transfer and Distillation](https://arxiv.org/abs/1906.00619), Jayashree Karlekar, Jiashi Feng, Zi Sian Wong, Sugiri Pranata, 2019
 - [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068), Wonpyo Park, Dongju Kim, Yan Lu, Minsu Cho, 2019
 - [Graph-based Knowledge Distillation by Multi-head Attention Network](https://arxiv.org/abs/1907.02226), Seunghyun Lee, Byung Cheol Song, 2019
@@ -89,7 +91,20 @@
 - [Knowledge Flow: Improve Upon Your Teachers](https://arxiv.org/abs/1904.05878), Iou-Jen Liu, Jian Peng, Alexander G. Schwing, 2019
 - [Graph Representation Learning via Multi-task Knowledge Distillation](https://arxiv.org/abs/1911.05700), Jiaqi Ma, Qiaozhu Mei, 2019
 - [Deep geometric knowledge distillation with graphs](https://arxiv.org/abs/1911.03080), Carlos Lassance, Myriam Bontonou, Ghouthi Boukli Hacene, Vincent Gripon, Jian Tang, Antonio Ortega, 2019
-
+- [Correlation Congruence for Knowledge Distillation](https://arxiv.org/abs/1904.01802), Baoyun Peng, Xiao Jin, Jiaheng Liu, Shunfeng Zhou, Yichao Wu, Yu Liu, Dongsheng Li, Zhaoning Zhang, 2019
+- [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation](https://arxiv.org/abs/1905.08094), Linfeng Zhang, Jiebo Song, Anni Gao, Jingwei Chen, Chenglong Bao, Kaisheng Ma, 2019 
+- [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](https://arxiv.org/abs/1907.04829), Kevin Clark, Minh-Thang Luong, Urvashi Khandelwal, Christopher D. Manning, Quoc V. Le, 2019
+- [Self-Knowledge Distillation in Natural Language Processing](https://arxiv.org/abs/1908.01851), Sangchul Hahn, Heeyoul Choi, 2019
+- [Rethinking Data Augmentation: Self-Supervision and Self-Distillation](https://arxiv.org/abs/1910.05872), Hankook Lee, Sung Ju Hwang, Jinwoo Shin, 2019 
+- [MSD: Multi-Self-Distillation Learning via Multi-classifiers within Deep Neural Networks](https://arxiv.org/abs/1911.09418), Yunteng Luan, Hanyu Zhao, Zhi Yang, Yafei Dai, 2019
+- [Efficient Video Classification Using Fewer Frames](https://arxiv.org/abs/1902.10640), Shweta Bhardwaj, Mukundhan Srinivasan, Mitesh M. Khapra, 2019
+- [Retaining Privileged Information for Multi-Task Learning](http://web.mit.edu/lilehman/www/paper/LUPI_KDD2019.pdf), Fengyi Tang, Cao Xiao, Fei Wang, Jiayu Zhou, Li-Wei Lehman
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
