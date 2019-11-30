@@ -69,6 +69,17 @@
 - [Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher](https://arxiv.org/abs/1902.03393), Seyed-Iman Mirzadeh, Mehrdad Farajtabar, Ang Li, Hassan Ghasemzadeh, 2019
 - [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866), Byeongho Heo, Jeesoo Kim, Sangdoo Yun, Hyojin Park, Nojun Kwak, Jin Young Choi, 2019
 - [Contrastive Representation Distillation](https://arxiv.org/pdf/1910.10699.pdf), Yonglong Tian, Dilip Krishnan, Phillip Isola, 2019
+- [Distillation-Based Training for Multi-Exit Architectures](http://openaccess.thecvf.com/content_ICCV_2019/papers/Phuong_Distillation-Based_Training_for_Multi-Exit_Architectures_ICCV_2019_paper.pdf), Mary Phuong, Christoph H. Lampert, Am Campus, 2019
+- [Learning Metrics from Teachers: Compact Networks for Image Embedding](https://arxiv.org/abs/1904.03624), Lu Yu, Vacit Oguz Yazici, Xialei Liu, Joost van de Weijer, Yongmei Cheng, Arnau Ramisa, 2019
+- [On the Efficacy of Knowledge Distillation](https://arxiv.org/abs/1910.01348), Jang Hyun Cho, Bharath Hariharan, 2019
+- [Revisit Knowledge Distillation: a Teacher-free Framework](https://arxiv.org/abs/1909.11723), Li Yuan, Francis E.H.Tay, Guilin Li, Tao Wang, Jiashi Feng, 2019
+- [Ensemble Distribution Distillation](https://arxiv.org/abs/1905.00076), Andrey Malinin, Bruno Mlodozeniec, Mark Gales, 2019
+- [Improving Generalization and Robustness with Noisy Collaboration in Knowledge Distillation](https://arxiv.org/abs/1910.05057), Elahe Arani, Fahad Sarfraz, Bahram Zonooz, 2019
+- [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252), Qizhe Xie, Eduard Hovy, Minh-Thang Luong, Quoc V. Le, 2019
+- [Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework](https://arxiv.org/abs/1910.12061), Srinidhi Hegde, Ranjitha Prasad, Ramya Hebbalaguppe, Vishwajith Kumar, 2019
+- [Preparing Lessons: Improve Knowledge Distillation with Better Supervision](https://arxiv.org/abs/1911.07471), Tiancheng Wen, Shenqi Lai, Xueming Qian, 2019
+- [Positive-Unlabeled Compression on the Cloud](https://arxiv.org/abs/1909.09757), Yixing Xu, Yunhe Wang, Hanting Chen, Kai Han, Chunjing Xu, Dacheng Tao, Chang Xu, 2019
+
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
