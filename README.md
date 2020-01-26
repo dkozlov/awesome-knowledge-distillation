@@ -127,6 +127,7 @@
 - [Contrastive Representation Distillation](https://github.com/HobbitLong/RepDistiller)
 - [Transformer model distillation](http://nlp_architect.nervanasys.com/transformers_distillation.html)
 - [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)
+- [Data Efficient Model Compression ](https://github.com/huawei-noah/Data-Efficient-Model-Compression)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
