@@ -124,6 +124,7 @@
 - [A Comprehensive Overhaul of Feature Distillation](https://github.com/clovaai/overhaul-distillation)
 - [Contrastive Representation Distillation](https://github.com/HobbitLong/RepDistiller)
 - [Transformer model distillation](http://nlp_architect.nervanasys.com/transformers_distillation.html)
+- [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
