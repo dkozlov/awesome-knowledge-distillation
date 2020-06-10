@@ -103,6 +103,7 @@
 - [Data-Free Learning of Student Networks](https://arxiv.org/pdf/1904.01186.pdf), Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang1, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian, 2019 
 - [Positive-Unlabeled Compression on the Cloud](https://arxiv.org/pdf/1909.09757.pdf), Yixing Xu, Yunhe Wang, Hanting Chen, Kai Han, Chunjing Xu, Dacheng Tao, Chang Xu, 2019
 - [When Does Label Smoothing Help?](https://arxiv.org/pdf/1906.02629.pdf), Rafael Müller, Simon Kornblith, Geoffrey Hinton, 2019
+- [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/pdf/1909.10351.pdf), Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu, 2019 
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
