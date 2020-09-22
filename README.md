@@ -107,6 +107,7 @@
 - [Channel Distillation: Channel-Wise Attention for Knowledge Distillation](https://arxiv.org/abs/2006.01683), Zaida Zhou, Chaoran Zhuge, Xinwei Guan, Wen Liu, 2020
 - [Residual Knowledge Distillation](https://arxiv.org/abs/2002.09168), Mengya Gao, Yujun Shen, Quanquan Li, Chen Change Loy, 2020
 - [ResKD: Residual-Guided Knowledge Distillation](https://arxiv.org/abs/2006.04719), Xuewei Li, Songyuan Li, Bourahla Omar, Fei Wu, Xi Li, 2020
+- [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://arxiv.org/abs/1912.08795), Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz, 2020
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
@@ -135,6 +136,7 @@
 - [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)
 - [Data Efficient Model Compression ](https://github.com/huawei-noah/Data-Efficient-Model-Compression)
 - [Channel Distillation](https://github.com/zhouzaida/channel-distillation)
+- [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://github.com/NVlabs/DeepInversion)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
