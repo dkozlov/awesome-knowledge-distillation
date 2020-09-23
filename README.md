@@ -108,6 +108,7 @@
 - [Residual Knowledge Distillation](https://arxiv.org/abs/2002.09168), Mengya Gao, Yujun Shen, Quanquan Li, Chen Change Loy, 2020
 - [ResKD: Residual-Guided Knowledge Distillation](https://arxiv.org/abs/2006.04719), Xuewei Li, Songyuan Li, Bourahla Omar, Fei Wu, Xi Li, 2020
 - [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://arxiv.org/abs/1912.08795), Hongxu Yin, Pavlo Molchanov, Zhizhong Li, Jose M. Alvarez, Arun Mallya, Derek Hoiem, Niraj K. Jha, Jan Kautz, 2020
+- [MEAL V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks](https://arxiv.org/abs/2009.08453), Zhiqiang Shen, Marios Savvides, 2020
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
@@ -129,6 +130,7 @@
 - [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://github.com/bhheo/AB_distillation)
 - [Fast Human Pose Estimation Pytorch](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch)
 - [MEAL: Multi-Model Ensemble via Adversarial Learning](https://github.com/AaronHeee/MEAL)
+- [MEAL-V2: Boosting Vanilla ResNet-50 to 80%+ Top-1 Accuracy on ImageNet without Tricks](https://github.com/szq0214/MEAL-V2)
 - [Using Teacher Assistants to Improve Knowledge Distillation](https://github.com/imirzadeh/Teacher-Assistant-Knowledge-Distillation)
 - [A Comprehensive Overhaul of Feature Distillation](https://github.com/clovaai/overhaul-distillation)
 - [Contrastive Representation Distillation](https://github.com/HobbitLong/RepDistiller)
