@@ -141,6 +141,7 @@
 - [Data Efficient Model Compression ](https://github.com/huawei-noah/Data-Efficient-Model-Compression)
 - [Channel Distillation](https://github.com/zhouzaida/channel-distillation)
 - [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://github.com/NVlabs/DeepInversion)
+- [MGD: Matching Guided Distillation](https://github.com/KaiyuYue/mgd)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
