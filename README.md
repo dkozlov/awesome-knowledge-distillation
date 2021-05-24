@@ -143,6 +143,12 @@
 - [Channel Distillation](https://github.com/zhouzaida/channel-distillation)
 - [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://github.com/NVlabs/DeepInversion)
 - [MGD: Matching Guided Distillation](https://github.com/KaiyuYue/mgd)
+- [torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation](https://github.com/yoshitomo-matsubara/torchdistill)
+- [Knowledge Distillation on SSD](https://github.com/SsisyphusTao/SSD-Knowledge-Distillation) Learning efficient object detection models with knowledge distillation [(NIPS 2017)](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf)
+- [distiller: A large scale study of Knowledge Distillation](https://github.com/karanchahal/distiller) The State of Knowledge Distillation for Classification [(arxiv 2019)](https://arxiv.org/abs/1912.10850)
+- [Knowledge-Distillation-Zoo: Pytorch implementation of various Knowledge Distillation (KD) methods](https://github.com/AberHu/Knowledge-Distillation-Zoo)
+- [knowledge-distillation-pytorch: A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility ](https://github.com/peterliht/knowledge-distillation-pytorch)
+- [Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research](https://github.com/IntelLabs/distiller)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
