@@ -103,7 +103,8 @@ Awesome Knowledge Distillation
 - [Data-Free Learning of Student Networks](https://arxiv.org/pdf/1904.01186.pdf), Hanting Chen, Yunhe Wang, Chang Xu, Zhaohui Yang1, Chuanjian Liu, Boxin Shi, Chunjing Xu, Chao Xu, Qi Tian, 2019 
 - [Positive-Unlabeled Compression on the Cloud](https://arxiv.org/pdf/1909.09757.pdf), Yixing Xu, Yunhe Wang, Hanting Chen, Kai Han, Chunjing Xu, Dacheng Tao, Chang Xu, 2019
 - [When Does Label Smoothing Help?](https://arxiv.org/pdf/1906.02629.pdf), Rafael Müller, Simon Kornblith, Geoffrey Hinton, 2019
-- [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/pdf/1909.10351.pdf), Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu, 2019 
+- [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/pdf/1909.10351.pdf), Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu, 2019
+- [The State of Knowledge Distillation for Classification](https://arxiv.org/abs/1912.10850), Fabian Ruffy, Karanbir Chahal, 2019
 - [Channel Distillation: Channel-Wise Attention for Knowledge Distillation](https://arxiv.org/abs/2006.01683), Zaida Zhou, Chaoran Zhuge, Xinwei Guan, Wen Liu, 2020
 - [Residual Knowledge Distillation](https://arxiv.org/abs/2002.09168), Mengya Gao, Yujun Shen, Quanquan Li, Chen Change Loy, 2020
 - [ResKD: Residual-Guided Knowledge Distillation](https://arxiv.org/abs/2006.04719), Xuewei Li, Songyuan Li, Bourahla Omar, Fei Wu, Xi Li, 2020
@@ -143,11 +144,11 @@ Awesome Knowledge Distillation
 - [Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion](https://github.com/NVlabs/DeepInversion)
 - [MGD: Matching Guided Distillation](https://github.com/KaiyuYue/mgd)
 - [torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation](https://github.com/yoshitomo-matsubara/torchdistill)
-- [Knowledge Distillation on SSD](https://github.com/SsisyphusTao/SSD-Knowledge-Distillation) Learning efficient object detection models with knowledge distillation [(NIPS 2017)](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf)
-- [distiller: A large scale study of Knowledge Distillation](https://github.com/karanchahal/distiller) The State of Knowledge Distillation for Classification [(arxiv 2019)](https://arxiv.org/abs/1912.10850)
+- [Knowledge Distillation on SSD](https://github.com/SsisyphusTao/SSD-Knowledge-Distillation)
+- [distiller: A large scale study of Knowledge Distillation](https://github.com/karanchahal/distiller)
 - [Knowledge-Distillation-Zoo: Pytorch implementation of various Knowledge Distillation (KD) methods](https://github.com/AberHu/Knowledge-Distillation-Zoo)
-- [knowledge-distillation-pytorch: A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility ](https://github.com/peterliht/knowledge-distillation-pytorch)
-- [Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research](https://github.com/IntelLabs/distiller)
+- [A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility](https://github.com/peterliht/knowledge-distillation-pytorch)
+- [Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.](https://github.com/IntelLabs/distiller)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
