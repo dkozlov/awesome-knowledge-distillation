@@ -1,4 +1,4 @@
-pull/30# Awesome Knowledge Distillation
+Awesome Knowledge Distillation
 ================================
 
 ### Papers
