@@ -1,4 +1,4 @@
-# Awesome Knowledge Distillation
+pull/30# Awesome Knowledge Distillation
 ================================
 
 ### Papers
@@ -128,7 +128,6 @@
 - [Interpreting Deep Classifier by Visual Distillation of Dark Knowledge](https://github.com/xukai92/darksight)
 - [A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility](https://github.com/peterliht/knowledge-distillation-pytorch)
 - [Mean teachers are better role models](https://github.com/CuriousAI/mean-teacher)
-- [Neural Network Distiller by Intel AI Lab](https://github.com/NervanaSystems/distiller), [distiller/knowledge_distillation.py](https://github.com/NervanaSystems/distiller/blob/master/distiller/knowledge_distillation.py)
 - [Relational Knowledge Distillation](https://github.com/lenscloth/RKD)
 - [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://github.com/bhheo/AB_distillation)
 - [Fast Human Pose Estimation Pytorch](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch)
