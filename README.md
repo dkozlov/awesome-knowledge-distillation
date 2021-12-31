@@ -115,6 +115,8 @@ Awesome Knowledge Distillation
 - [MGD: Matching Guided Distillation](https://arxiv.org/abs/2008.09958), Kaiyu Yue, Jiangfan Deng, Feng Zhou, 2020
 - [Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation](https://arxiv.org/abs/2010.07485), Jia Guo, Minghao Chen, Yao Hu, Chen Zhu, Xiaofei He, Deng Cai, 2020
 - [Regularizing Class-wise Predictions via Self-knowledge Distillation](https://arxiv.org/abs/2003.13964), Sukmin Yun, Jongjin Park, Kimin Lee, Jinwoo Shin, 2020
+- [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877), Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou, 2020
+
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
@@ -130,7 +132,6 @@ Awesome Knowledge Distillation
 - [Attention Transfer](https://github.com/szagoruyko/attention-transfer)
 - [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](https://github.com/jiasenlu/visDial.pytorch)
 - [Interpreting Deep Classifier by Visual Distillation of Dark Knowledge](https://github.com/xukai92/darksight)
-- [A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility](https://github.com/peterliht/knowledge-distillation-pytorch)
 - [Mean teachers are better role models](https://github.com/CuriousAI/mean-teacher)
 - [Relational Knowledge Distillation](https://github.com/lenscloth/RKD)
 - [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://github.com/bhheo/AB_distillation)
@@ -153,6 +154,7 @@ Awesome Knowledge Distillation
 - [A PyTorch implementation for exploring deep and shallow knowledge distillation (KD) experiments with flexibility](https://github.com/peterliht/knowledge-distillation-pytorch)
 - [Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.](https://github.com/IntelLabs/distiller)
 - [KD_Lib :  A Pytorch Knowledge Distillation library for benchmarking and extending works in the domains of Knowledge Distillation, Pruning, and Quantization. ](https://github.com/SforAiDl/KD_Lib)
+- [Vision Transformer Distillation](https://github.com/lucidrains/vit-pytorch#distillation)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
