@@ -116,6 +116,12 @@ Awesome Knowledge Distillation
 - [Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation](https://arxiv.org/abs/2010.07485), Jia Guo, Minghao Chen, Yao Hu, Chen Zhu, Xiaofei He, Deng Cai, 2020
 - [Regularizing Class-wise Predictions via Self-knowledge Distillation](https://arxiv.org/abs/2003.13964), Sukmin Yun, Jongjin Park, Kimin Lee, Jinwoo Shin, 2020
 - [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877), Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou, 2020
+- [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937), Lin Wang, Kuk-Jin Yoon, 2020
+- [Cross-Layer Distillation with Semantic Calibration](https://arxiv.org/abs/2012.03236),Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Yan Feng, Chun Chen, 2020
+- [Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525), Jianping Gou, Baosheng Yu, Stephen John Maybank, Dacheng Tao, 2021
+- [Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://arxiv.org/abs/2103.08273), Mingi Ji, Seungjae Shin, Seunghyun Hwang, Gibeom Park, Il-Chul Moon, 2021
+- [Complementary Relation Contrastive Distillation](https://arxiv.org/abs/2103.16367),Jinguo Zhu, Shixiang Tang, Dapeng Chen, Shijie Yu, Yakun Liu, Aijun Yang, Mingzhe Rong, Xiaohua Wang, 2021
+- [Distilling Knowledge via Knowledge Review](https://arxiv.org/abs/2104.09044),Pengguang Chen, Shu Liu, Hengshuang Zhao, Jiaya Jia, 2021
 
 ***
 ### Videos
@@ -155,6 +161,9 @@ Awesome Knowledge Distillation
 - [Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.](https://github.com/IntelLabs/distiller)
 - [KD_Lib :  A Pytorch Knowledge Distillation library for benchmarking and extending works in the domains of Knowledge Distillation, Pruning, and Quantization. ](https://github.com/SforAiDl/KD_Lib)
 - [Vision Transformer Distillation](https://github.com/lucidrains/vit-pytorch#distillation)
+- [Cross-Layer Distillation with Semantic Calibration](https://github.com/DefangChen/SemCKD)
+- [Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://github.com/MingiJi/FRSKD)
+- [Distilling Knowledge via Knowledge Review](https://github.com/dvlab-research/ReviewKD)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
@@ -196,3 +205,6 @@ Awesome Knowledge Distillation
 - [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras)
 - [keras google-vision's distillation ](https://github.com/GINK03/keras-distillation)
 - [Distilling the knowledge in a Neural Network](https://github.com/tejasgodambe/knowledge-distillation)
+
+##
+- https://github.com/PaddlePaddle/PaddleSlim/tree/release/2.0.0/docs/zh_cn/tutorials
