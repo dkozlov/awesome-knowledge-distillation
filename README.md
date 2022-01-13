@@ -124,7 +124,6 @@ Awesome Knowledge Distillation
 - [Distilling Knowledge via Knowledge Review](https://arxiv.org/abs/2104.09044),Pengguang Chen, Shu Liu, Hengshuang Zhao, Jiaya Jia, 2021
 - [Hierarchical Self-supervised Augmented Knowledge Distillation](https://arxiv.org/abs/2107.13715), Chuanguang Yang, Zhulin An, Linhang Cai, Yongjun Xu, 2021
 
-
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
@@ -167,7 +166,6 @@ Awesome Knowledge Distillation
 - [Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://github.com/MingiJi/FRSKD)
 - [Distilling Knowledge via Knowledge Review](https://github.com/dvlab-research/ReviewKD)
 - [Hierarchical Self-supervised Augmented Knowledge Distillation](https://github.com/winycg/HSAKD)
-
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
