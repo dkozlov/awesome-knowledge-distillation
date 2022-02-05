@@ -118,6 +118,7 @@ Awesome Knowledge Distillation
 - [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877), Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou, 2020
 - [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937), Lin Wang, Kuk-Jin Yoon, 2020
 - [Cross-Layer Distillation with Semantic Calibration](https://arxiv.org/abs/2012.03236),Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Yan Feng, Chun Chen, 2020
+- [MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis](https://arxiv.org/abs/2104.04767), Sergei Belousov, 2021
 - [Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525), Jianping Gou, Baosheng Yu, Stephen John Maybank, Dacheng Tao, 2021
 - [Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://arxiv.org/abs/2103.08273), Mingi Ji, Seungjae Shin, Seunghyun Hwang, Gibeom Park, Il-Chul Moon, 2021
 - [Complementary Relation Contrastive Distillation](https://arxiv.org/abs/2103.16367),Jinguo Zhu, Shixiang Tang, Dapeng Chen, Shijie Yu, Yakun Liu, Aijun Yang, Mingzhe Rong, Xiaohua Wang, 2021
