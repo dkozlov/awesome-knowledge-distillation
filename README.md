@@ -124,6 +124,7 @@ Awesome Knowledge Distillation
 - [Complementary Relation Contrastive Distillation](https://arxiv.org/abs/2103.16367),Jinguo Zhu, Shixiang Tang, Dapeng Chen, Shijie Yu, Yakun Liu, Aijun Yang, Mingzhe Rong, Xiaohua Wang, 2021
 - [Distilling Knowledge via Knowledge Review](https://arxiv.org/abs/2104.09044),Pengguang Chen, Shu Liu, Hengshuang Zhao, Jiaya Jia, 2021
 - [Hierarchical Self-supervised Augmented Knowledge Distillation](https://arxiv.org/abs/2107.13715), Chuanguang Yang, Zhulin An, Linhang Cai, Yongjun Xu, 2021
+- [Causal Distillation for Language Models](https://arxiv.org/abs/2112.02505), Zhengxuan Wu, Atticus Geiger, Josh Rozner, Elisa Kreiss, Hanson Lu, Thomas Icard, Christopher Potts, Noah D. Goodman, 2021
 
 ***
 ### Videos
@@ -167,6 +168,7 @@ Awesome Knowledge Distillation
 - [Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://github.com/MingiJi/FRSKD)
 - [Distilling Knowledge via Knowledge Review](https://github.com/dvlab-research/ReviewKD)
 - [Hierarchical Self-supervised Augmented Knowledge Distillation](https://github.com/winycg/HSAKD)
+- [Causal Distillation for Language Models](https://github.com/frankaging/Causal-Distill)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
