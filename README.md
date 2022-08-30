@@ -35,7 +35,6 @@ Awesome Knowledge Distillation
 - [Local Affine Approximators for Improving Knowledge Transfer](https://lld-workshop.github.io/papers/LLD_2017_paper_28.pdf), Suraj Srinivas and Francois Fleuret, 2017
 - [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model](http://papers.nips.cc/paper/6635-best-of-both-worlds-transferring-knowledge-from-discriminative-learning-to-a-generative-visual-dialog-model.pdf), Jiasen Lu1, Anitha Kannan, Jianwei Yang, Devi Parikh, Dhruv Batra 2017
 - [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf), Guobin Chen, Wongun Choi, Xiang Yu, Tony Han, Manmohan Chandraker, 2017
-- [Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification](https://arxiv.org/pdf/1709.02929), Chong Wang, Xipeng Lan and Yangang Zhang, 2017
 - [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf), Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le, 2017
 - [Revisiting knowledge transfer for training object class detectors](https://arxiv.org/pdf/1708.06128.pdf), Jasper Uijlings, Stefan Popov, Vittorio Ferrari, 2017
 - [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf), Junho Yim, Donggyu Joo, Jihoon Bae, Junmo Kim, 2017
