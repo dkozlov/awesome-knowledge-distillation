@@ -124,6 +124,7 @@ Awesome Knowledge Distillation
 - [Distilling Knowledge via Knowledge Review](https://arxiv.org/abs/2104.09044),Pengguang Chen, Shu Liu, Hengshuang Zhao, Jiaya Jia, 2021
 - [Hierarchical Self-supervised Augmented Knowledge Distillation](https://arxiv.org/abs/2107.13715), Chuanguang Yang, Zhulin An, Linhang Cai, Yongjun Xu, 2021
 - [Causal Distillation for Language Models](https://arxiv.org/abs/2112.02505), Zhengxuan Wu, Atticus Geiger, Josh Rozner, Elisa Kreiss, Hanson Lu, Thomas Icard, Christopher Potts, Noah D. Goodman, 2021
+- [How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting](https://arxiv.org/abs/2203.04781), Alessio Monti, Angelo Porrello, Simone Calderara, Pasquale Coscia, Lamberto Ballan, Rita Cucchiara, 2022
 
 ***
 ### Videos
