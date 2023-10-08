@@ -43,6 +43,7 @@ Awesome Knowledge Distillation
 - [Parallel WaveNet:Fast High-Fidelity Speech Synthesis](https://arxiv.org/pdf/1711.10433.pdf), Aaron van den Oord, Yazhe Li, Igor Babuschkin, Karen Simonyan, Oriol Vinyals, Koray Kavukcuoglu, 2017
 - [Learning from Noisy Labels with Distillation](https://arxiv.org/abs/1703.02391), Yuncheng Li, Jianchao Yang, Yale Song, Liangliang Cao, Jiebo Luo, Li-Jia Li, 2017
 - [Deep Mutual Learning](https://arxiv.org/abs/1706.00384), Ying Zhang, Tao Xiang, Timothy M. Hospedales, Huchuan Lu, 2017
+- [Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784), Nicholas Frosst, Geoffrey Hinton, 2017
 - [Interpreting Deep Classifiers by Visual Distillation of Dark Knowledge](https://arxiv.org/pdf/1803.04042.pdf), Kai Xu, Dae Hoon Park, Chang Yi, Charles Sutton, 2018
 - [Efficient Neural Architecture Search via Parameters Sharing](https://arxiv.org/pdf/1802.03268), Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean, 2018
 - [Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Rich Caruana, Giles Hooker, Albert Gordo, 2018
@@ -117,6 +118,7 @@ Awesome Knowledge Distillation
 - [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877), Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou, 2020
 - [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937), Lin Wang, Kuk-Jin Yoon, 2020
 - [Cross-Layer Distillation with Semantic Calibration](https://arxiv.org/abs/2012.03236),Defang Chen, Jian-Ping Mei, Yuan Zhang, Can Wang, Yan Feng, Chun Chen, 2020
+- [Subclass Distillation](https://arxiv.org/abs/2002.03936), Rafael Müller, Simon Kornblith, Geoffrey Hinton, 2020
 - [MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis](https://arxiv.org/abs/2104.04767), Sergei Belousov, 2021
 - [Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525), Jianping Gou, Baosheng Yu, Stephen John Maybank, Dacheng Tao, 2021
 - [Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://arxiv.org/abs/2103.08273), Mingi Ji, Seungjae Shin, Seunghyun Hwang, Gibeom Park, Il-Chul Moon, 2021
@@ -125,6 +127,7 @@ Awesome Knowledge Distillation
 - [Hierarchical Self-supervised Augmented Knowledge Distillation](https://arxiv.org/abs/2107.13715), Chuanguang Yang, Zhulin An, Linhang Cai, Yongjun Xu, 2021
 - [Causal Distillation for Language Models](https://arxiv.org/abs/2112.02505), Zhengxuan Wu, Atticus Geiger, Josh Rozner, Elisa Kreiss, Hanson Lu, Thomas Icard, Christopher Potts, Noah D. Goodman, 2021
 - [How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting](https://arxiv.org/abs/2203.04781), Alessio Monti, Angelo Porrello, Simone Calderara, Pasquale Coscia, Lamberto Ballan, Rita Cucchiara, 2022
+- [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://arxiv.org/abs/2308.03279), Wenxuan Zhou, Sheng Zhang, Yu Gu, Muhao Chen, Hoifung Poon, 2023 
 
 ***
 ### Videos
@@ -169,6 +172,7 @@ Awesome Knowledge Distillation
 - [Distilling Knowledge via Knowledge Review](https://github.com/dvlab-research/ReviewKD)
 - [Hierarchical Self-supervised Augmented Knowledge Distillation](https://github.com/winycg/HSAKD)
 - [Causal Distillation for Language Models](https://github.com/frankaging/Causal-Distill)
+- [UniversalNER](https://github.com/universal-ner/universal-ner)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
