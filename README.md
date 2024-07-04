@@ -130,6 +130,7 @@ Awesome Knowledge Distillation
 - [Considerations When Learning Additive Explanations for Black-Box Models](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Giles Hooker, Paul Koch, Albert Gordo, Rich Caruana, 2023
 - [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://arxiv.org/abs/2308.03279), Wenxuan Zhou, Sheng Zhang, Yu Gu, Muhao Chen, Hoifung Poon, 2023
 - [MobileSAMv2: Faster Segment Anything to Everything](https://arxiv.org/abs/2312.09579), Chaoning Zhang, Dongshen Han, Sheng Zheng, Jinwoo Choi, Tae-Ho Kim, Choong Seon Hong, 2023
+- [Precision Shaking and DORPO: Conceptual Foundations of LLM Knowledge Distillation Methods](https://github.com/OpZest/Papers/blob/main/White_papers/Precision_Shaking_and_DORPO.md), Áron Cserveni, 2024
 
 ***
 ### Videos
