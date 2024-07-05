@@ -131,6 +131,7 @@ Awesome Knowledge Distillation
 - [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://arxiv.org/abs/2308.03279), Wenxuan Zhou, Sheng Zhang, Yu Gu, Muhao Chen, Hoifung Poon, 2023
 - [MobileSAMv2: Faster Segment Anything to Everything](https://arxiv.org/abs/2312.09579), Chaoning Zhang, Dongshen Han, Sheng Zheng, Jinwoo Choi, Tae-Ho Kim, Choong Seon Hong, 2023
 - [Precision Shaking and DORPO: Conceptual Foundations of LLM Knowledge Distillation Methods](https://github.com/OpZest/Papers/blob/main/White_papers/Precision_Shaking_and_DORPO.md), Áron Cserveni, 2024
+- [Logit Standardization in Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_Logit_Standardization_in_Knowledge_Distillation_CVPR_2024_paper.html), Shangquan Sun, Wenqi Ren, Jingzhi Li, Rui Wang, Xiaochun Cao, 2024
 
 ***
 ### Videos
@@ -177,6 +178,7 @@ Awesome Knowledge Distillation
 - [Causal Distillation for Language Models](https://github.com/frankaging/Causal-Distill)
 - [UniversalNER](https://github.com/universal-ner/universal-ner)
 - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
+- [logit-standardization-KD](https://github.com/sunshangquan/logit-standardization-KD)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
