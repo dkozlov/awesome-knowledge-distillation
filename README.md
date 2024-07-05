@@ -178,7 +178,7 @@ Awesome Knowledge Distillation
 - [Causal Distillation for Language Models](https://github.com/frankaging/Causal-Distill)
 - [UniversalNER](https://github.com/universal-ner/universal-ner)
 - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
-- [logit-standardization-KD](https://github.com/sunshangquan/logit-standardization-KD)
+- [Logit-Standardization-KD](https://github.com/sunshangquan/logit-standardization-KD)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
