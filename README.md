@@ -142,6 +142,7 @@ Awesome Knowledge Distillation
 - [Precision Shaking and DORPO: Conceptual Foundations of LLM Knowledge Distillation Methods](https://github.com/OpZest/Papers/blob/main/White_papers/Precision_Shaking_and_DORPO.md), Áron Cserveni, 2024
 - [Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation](https://arxiv.org/abs/2405.05224), Jonas Kohler, Albert Pumarola, Edgar Schönfeld, Artsiom Sanakoyeu, Roshan Sumbaly, Peter Vajda, Ali Thabet, 2024
 - [Trajectory Consistency Distillation: Improved Latent Consistency Distillation by Semi-Linear Consistency Function with Trajectory Mapping](https://arxiv.org/abs/2402.19159), Jianbin Zheng, Minghui Hu, Zhongyi Fan, Chaoyue Wang, Changxing Ding, Dacheng Tao, Tat-Jen Cham, 2024
+- [Generative Context Distillation](https://arxiv.org/abs/2411.15927), Haebin Shin, Lei Ji, Yeyun Gong, Sungdong Kim, Eunbi Choi, Minjoon Seo, 2024
 
 ***
 ### Videos
