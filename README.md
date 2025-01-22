@@ -144,6 +144,7 @@ Awesome Knowledge Distillation
 - [Trajectory Consistency Distillation: Improved Latent Consistency Distillation by Semi-Linear Consistency Function with Trajectory Mapping](https://arxiv.org/abs/2402.19159), Jianbin Zheng, Minghui Hu, Zhongyi Fan, Chaoyue Wang, Changxing Ding, Dacheng Tao, Tat-Jen Cham, 2024
 - [Generative Context Distillation](https://arxiv.org/abs/2411.15927), Haebin Shin, Lei Ji, Yeyun Gong, Sungdong Kim, Eunbi Choi, Minjoon Seo, 2024
 - [DεpS: Delayed ε-Shrinking for Faster Once-For-All Training], Aditya Annavajjala, Alind Khare, Animesh Agrawal, Igor Fedorov, Hugo Latapie, Myungjin Lee, Alexey Tumanov, 2024
+- [ScaleKD: Strong Vision Transformers Could Be Excellent Teachers](https://deep-optimization.github.io/scalekd/), Jiawei Fan, Chao Li, Xiaolong Liu and Anbang Yao, 2024
 
 ***
 ### Videos
