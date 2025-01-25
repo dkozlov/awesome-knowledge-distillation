@@ -135,6 +135,7 @@ Awesome Knowledge Distillation
 - [Adversarial Diffusion Distillation](https://arxiv.org/abs/2311.17042), Axel Sauer, Dominik Lorenz, Andreas Blattmann, Robin Rombach, 2023
 - [One-step Diffusion with Distribution Matching Distillation](https://arxiv.org/abs/2311.18828), Tianwei Yin, Michaël Gharbi, Richard Zhang, Eli Shechtman, Fredo Durand, William T. Freeman, Taesung Park, 2023
 - [MobileSAMv2: Faster Segment Anything to Everything](https://arxiv.org/abs/2312.09579), Chaoning Zhang, Dongshen Han, Sheng Zheng, Jinwoo Choi, Tae-Ho Kim, Choong Seon Hong, 2023
+- [Knowledge Transfer from Vision Foundation Models for Efficient Training of Small Task-specific Models], Raviteja Vemulapalli, Hadi Pouransari, Fartash Faghri, Sachin Mehta, Mehrdad Farajtabar, Mohammad Rastegari, Oncel Tuzel, 2023
 - [Logit Standardization in Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_Logit_Standardization_in_Knowledge_Distillation_CVPR_2024_paper.html), Shangquan Sun, Wenqi Ren, Jingzhi Li, Rui Wang, Xiaochun Cao, 2024
 - [VkD : Improving Knowledge Distillation using Orthogonal Projections](https://openaccess.thecvf.com/content/CVPR2024/papers/Miles_VkD_Improving_Knowledge_Distillation_using_Orthogonal_Projections_CVPR_2024_paper.pdf), Roy Miles, Ismail Elezi, Jiankang Deng, 2024
 - [Understanding the Role of the Projector in Knowledge Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/28219/28433), Roy Miles, Krystian Mikolajczyk, 2024
@@ -144,6 +145,7 @@ Awesome Knowledge Distillation
 - [Trajectory Consistency Distillation: Improved Latent Consistency Distillation by Semi-Linear Consistency Function with Trajectory Mapping](https://arxiv.org/abs/2402.19159), Jianbin Zheng, Minghui Hu, Zhongyi Fan, Chaoyue Wang, Changxing Ding, Dacheng Tao, Tat-Jen Cham, 2024
 - [Generative Context Distillation](https://arxiv.org/abs/2411.15927), Haebin Shin, Lei Ji, Yeyun Gong, Sungdong Kim, Eunbi Choi, Minjoon Seo, 2024
 - [DεpS: Delayed ε-Shrinking for Faster Once-For-All Training], Aditya Annavajjala, Alind Khare, Animesh Agrawal, Igor Fedorov, Hugo Latapie, Myungjin Lee, Alexey Tumanov, 2024
+- [Transferring Knowledge from Large Foundation Models to Small Downstream Models], Shikai Qiu, Boran Han, Danielle C. Maddix, Shuai Zhang, Yuyang Wang, Andrew Gordon Wilson, 2024
 
 ***
 ### Videos
