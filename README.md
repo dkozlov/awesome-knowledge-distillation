@@ -147,7 +147,7 @@ Awesome Knowledge Distillation
 - [DεpS: Delayed ε-Shrinking for Faster Once-For-All Training](https://arxiv.org/abs/2407.06167), Aditya Annavajjala, Alind Khare, Animesh Agrawal, Igor Fedorov, Hugo Latapie, Myungjin Lee, Alexey Tumanov, 2024
 - [Transferring Knowledge from Large Foundation Models to Small Downstream Models](https://arxiv.org/abs/2406.07337), Shikai Qiu, Boran Han, Danielle C. Maddix, Shuai Zhang, Yuyang Wang, Andrew Gordon Wilson, 2024
 - [ScaleKD: Strong Vision Transformers Could Be Excellent Teachers](https://arxiv.org/abs/2411.06786), Jiawei Fan, Chao Li, Xiaolong Liu and Anbang Yao, 2024
-
+- [EchoDFKD: Data-Free Knowledge Distillation for Cardiac Ultrasound Segmentation using Synthetic Data](https://arxiv.org/abs/2409.07566), Grégoire Petit, Nathan Palluau, Axel Bauer, Clemens Dlaska
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
@@ -195,6 +195,7 @@ Awesome Knowledge Distillation
 - [MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
 - [Logit-Standardization-KD](https://github.com/sunshangquan/logit-standardization-KD)
 - [Delayed Eps-Shrinking for Faster Once-For-All Training](https://github.com/gatech-sysml/deps)
+- [EchoDFKD](https://github.com/GregoirePetit/EchoDFKD)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
