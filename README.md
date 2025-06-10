@@ -200,6 +200,7 @@ Awesome Knowledge Distillation
 - [Delayed Eps-Shrinking for Faster Once-For-All Training](https://github.com/gatech-sysml/deps)
 - [Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation](https://github.com/JiamingLv/WKD)
 - [EchoDFKD](https://github.com/GregoirePetit/EchoDFKD)
+- [Autoregressive Distillation of Diffusion Transformers (ARD)](https://github.com/alsdudrla10/ARD)
 
 ## Lua
 - [Example for teacher/student-based learning ](https://github.com/hoelzl/Academia)
