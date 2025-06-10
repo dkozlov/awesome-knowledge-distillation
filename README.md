@@ -150,6 +150,7 @@ Awesome Knowledge Distillation
 - [Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation](https://arxiv.org/abs/2412.08139), Jiaming Lv, Haoyuan Yang, Peihua Li, 2024
 - [EchoDFKD: Data-Free Knowledge Distillation for Cardiac Ultrasound Segmentation using Synthetic Data](https://arxiv.org/abs/2409.07566), Grégoire Petit, Nathan Palluau, Axel Bauer, Clemens Dlaska, 2025
 - [MaKD: Multi-aspect Knowledge Distillation with Large Language Model](https://arxiv.org/pdf/2501.13341), Taegyeong Lee, et al. 2025
+- [Autoregressive Distillation of Diffusion Transformers](https://arxiv.org/abs/2504.11295), Yeongmin Kim, Sotiris Anagnostidis, Yuming Du, Edgar Schönfeld, Jonas Kohler, Markos Georgopoulos, Albert Pumarola, Ali Thabet, Artsiom Sanakoyeu, 2025
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
