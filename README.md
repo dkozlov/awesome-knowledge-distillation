@@ -148,7 +148,7 @@ Awesome Knowledge Distillation
 - [Transferring Knowledge from Large Foundation Models to Small Downstream Models](https://arxiv.org/abs/2406.07337), Shikai Qiu, Boran Han, Danielle C. Maddix, Shuai Zhang, Yuyang Wang, Andrew Gordon Wilson, 2024
 - [ScaleKD: Strong Vision Transformers Could Be Excellent Teachers](https://arxiv.org/abs/2411.06786), Jiawei Fan, Chao Li, Xiaolong Liu and Anbang Yao, 2024
 - [Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation](https://arxiv.org/abs/2412.08139), Jiaming Lv, Haoyuan Yang, Peihua Li, 2024
-- [Simple Unsupervised Knowledge Distillation With Space Similarity](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00195.pdf), Aditya Singh, Haohan Wang, 2024
+- [Simple Unsupervised Knowledge Distillation With Space Similarity](https://arxiv.org/abs/2409.13939), Aditya Singh, Haohan Wang, 2024
 - [EchoDFKD: Data-Free Knowledge Distillation for Cardiac Ultrasound Segmentation using Synthetic Data](https://arxiv.org/abs/2409.07566), Grégoire Petit, Nathan Palluau, Axel Bauer, Clemens Dlaska, 2025
 - [MaKD: Multi-aspect Knowledge Distillation with Large Language Model](https://arxiv.org/pdf/2501.13341), Taegyeong Lee, et al. 2025
 - [Autoregressive Distillation of Diffusion Transformers](https://arxiv.org/abs/2504.11295), Yeongmin Kim, Sotiris Anagnostidis, Yuming Du, Edgar Schönfeld, Jonas Kohler, Markos Georgopoulos, Albert Pumarola, Ali Thabet, Artsiom Sanakoyeu, 2025
