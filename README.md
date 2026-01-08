@@ -153,6 +153,7 @@ Awesome Knowledge Distillation
 - [MaKD: Multi-aspect Knowledge Distillation with Large Language Model](https://arxiv.org/pdf/2501.13341), Taegyeong Lee, et al. 2025
 - [Autoregressive Distillation of Diffusion Transformers](https://arxiv.org/abs/2504.11295), Yeongmin Kim, Sotiris Anagnostidis, Yuming Du, Edgar Schönfeld, Jonas Kohler, Markos Georgopoulos, Albert Pumarola, Ali Thabet, Artsiom Sanakoyeu, 2025
 - [CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation](https://arxiv.org/pdf/2505.21904), Pardis Taghavi, Tian Liu, Renjie Li, Reza Langari, Zhengzhong Tu, 2025
+- [where did this sentence come from? tracing provenance in llm reasoning distillation](https://arxiv.org/pdf/2512.20908), Kaiyuan Liu, et al. 2025
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
