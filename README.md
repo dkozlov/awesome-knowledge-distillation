@@ -149,10 +149,20 @@ Awesome Knowledge Distillation
 - [ScaleKD: Strong Vision Transformers Could Be Excellent Teachers](https://arxiv.org/abs/2411.06786), Jiawei Fan, Chao Li, Xiaolong Liu and Anbang Yao, 2024
 - [Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation](https://arxiv.org/abs/2412.08139), Jiaming Lv, Haoyuan Yang, Peihua Li, 2024
 - [Simple Unsupervised Knowledge Distillation With Space Similarity](https://arxiv.org/abs/2409.13939), Aditya Singh, Haohan Wang, 2024
+- [Enhancing Knowledge Distillation of Large Language Models through Efficient Multi-Modal Distribution Alignment](https://arxiv.org/abs/2409.12545), Tianyu Peng, Jiajun Zhang, 2024
 - [EchoDFKD: Data-Free Knowledge Distillation for Cardiac Ultrasound Segmentation using Synthetic Data](https://arxiv.org/abs/2409.07566), Grégoire Petit, Nathan Palluau, Axel Bauer, Clemens Dlaska, 2025
 - [MaKD: Multi-aspect Knowledge Distillation with Large Language Model](https://arxiv.org/pdf/2501.13341), Taegyeong Lee, et al. 2025
 - [Autoregressive Distillation of Diffusion Transformers](https://arxiv.org/abs/2504.11295), Yeongmin Kim, Sotiris Anagnostidis, Yuming Du, Edgar Schönfeld, Jonas Kohler, Markos Georgopoulos, Albert Pumarola, Ali Thabet, Artsiom Sanakoyeu, 2025
+- [A Comprehensive Survey on Knowledge Distillation], Amir M. Mansourian, Rozhan Ahmadi, Masoud Ghafouri, Amir Mohammad Babaei, Elaheh Badali Golezani, Zeynab Yasamani Ghamchi, Vida Ramezanian, Alireza Taherian, Kimia Dinashi, Amirali Miri, Shohreh Kasaei, 2025
+- [Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models](https://arxiv.org/abs/2507.07104), Tiezheng Zhang, Yitong Li, Yu-cheng Chou, Jieneng Chen, Alan Yuille, Chen Wei, Junfei Xiao, 2025
+- [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions ∗](https://arxiv.org/abs/2504.14772), Luyang Fang, Xiaowei Yu, Jiazhang Cai, Yongkai Chen, Shushan Wu, Zhengliang Liu, Zhenyuan Yang, Haoran Lu, Xilin Gong, Yufang Liu, Terry Ma, Wei Ruan, Ali Abbasi, Jing Zhang, Tao Wang, Ehsan Latif, Weihang You, Hanqi Jiang, Wei Liu, Wei Zhang, Soheil Kolouri, Xiaoming Zhai, Dajiang Zhu, Wenxuan Zhong, Tianming Liu, Ping Ma, 2025
+- [Few-Shot Knowledge Distillation of LLMs With Counterfactual Explanations](https://arxiv.org/abs/2510.21631),Faisal Hamman, Pasan Dissanayake, Yanjun Fu, Sanghamitra Dutta,2025
+- [Universal Cross-Tokenizer Distillation via Approximate Likelihood Matching](https://arxiv.org/abs/2503.20083),Benjamin Minixhofer, Ivan Vulić, Edoardo Maria Ponti,2025
 - [CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation](https://arxiv.org/pdf/2505.21904), Pardis Taghavi, Tian Liu, Renjie Li, Reza Langari, Zhengzhong Tu, 2025
+- [An Empirical Study of Knowledge Distillation for Code Understanding Tasks](https://arxiv.org/abs/2508.15423),Ruiqi Wang, Zezhou Yang, Cuiyun Gao, Xin Xia, Qing Liao,2026
+- [Scaling Reasoning Efficiently via Relaxed On-Policy Distillation](https://arxiv.org/abs/2603.11137), Jongwoo Ko, Sara Abdali, Young Jin Kim, Tianyi Chen, Pashmina Cameron, 2026
+- [To Distill or Not to Distill: When Knowledge Transfer Undermines Safety of LLMs](https://openreview.net/pdf/fed763a30898a94daf0c79a480b698875f2cf105.pdf),2026
+
 ***
 ### Videos
 - [Dark knowledge](https://www.youtube.com/watch?v=EK61htlw8hY), Geoffrey Hinton, 2014
