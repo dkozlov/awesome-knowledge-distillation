@@ -255,6 +255,7 @@ Awesome Knowledge Distillation
 - [Knowledge distillation with Keras](https://github.com/TropComplique/knowledge-distillation-keras)
 - [keras google-vision's distillation ](https://github.com/GINK03/keras-distillation)
 - [Distilling the knowledge in a Neural Network](https://github.com/tejasgodambe/knowledge-distillation)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for knowledge distillation workflow orchestration, automated model compression management, and multi-agent coordination. MIT licensed.
 
 ##
 - https://github.com/PaddlePaddle/PaddleSlim/tree/release/2.0.0/docs/zh_cn/tutorials
