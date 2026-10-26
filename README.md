@@ -158,9 +158,9 @@ Papers
 - [Consistency Models](https://arxiv.org/abs/2303.01469), Yang Song, Prafulla Dhariwal, Mark Chen, Ilya Sutskever, ICML 2023
 - [TRACT: Denoising Diffusion Models with Transitive Closure Time-Distillation](https://arxiv.org/abs/2303.04248), David Berthelot, Arnaud Autef, Jierui Lin, Dian Ang Yap, Shuangfei Zhai, Siyuan Hu, Daniel Zheng, Walter Talbott, Eric Gu, 2023
 - [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301), Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister, Findings of ACL 2023
-- [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://arxiv.org/abs/2308.03279), Wenxuan Zhou, Sheng Zhang, Yu Gu, Muhao Chen, Hoifung Poon, 2023
+- [UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition](https://arxiv.org/abs/2308.03279), Wenxuan Zhou, Sheng Zhang, Yu Gu, Muhao Chen, Hoifung Poon, ICLR 2024
 - [Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](https://arxiv.org/abs/2310.04378), Simian Luo, Yiqin Tan, Longbo Huang, Jian Li, Hang Zhao, 2023
-- [Knowledge Transfer from Vision Foundation Models for Efficient Training of Small Task-specific Models](https://arxiv.org/abs/2311.18237), Raviteja Vemulapalli, Hadi Pouransari, Fartash Faghri, Sachin Mehta, Mehrdad Farajtabar, Mohammad Rastegari, Oncel Tuzel, 2023
+- [Knowledge Transfer from Vision Foundation Models for Efficient Training of Small Task-specific Models](https://arxiv.org/abs/2311.18237), Raviteja Vemulapalli, Hadi Pouransari, Fartash Faghri, Sachin Mehta, Mehrdad Farajtabar, Mohammad Rastegari, Oncel Tuzel, ICML 2024
 - [MobileSAMv2: Faster Segment Anything to Everything](https://arxiv.org/abs/2312.09579), Chaoning Zhang, Dongshen Han, Sheng Zheng, Jinwoo Choi, Tae-Ho Kim, Choong Seon Hong, 2023
 - [On Distillation of Guided Diffusion Models](https://arxiv.org/abs/2210.03142), Chenlin Meng, Robin Rombach, Ruiqi Gao, Diederik P. Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans, CVPR 2023
 - [Considerations When Learning Additive Explanations for Black-Box Models](https://arxiv.org/pdf/1801.08640.pdf), Sarah Tan, Giles Hooker, Paul Koch, Albert Gordo, Rich Caruana, 2023
@@ -169,11 +169,11 @@ Papers
 - [Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation](https://arxiv.org/abs/2404.04057), Mingyuan Zhou, Huangjie Zheng, Zhendong Wang, Mingzhang Yin, Hai Huang, ICML 2024
 - [Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation](https://arxiv.org/abs/2405.05224), Jonas Kohler, Albert Pumarola, Edgar Schönfeld, Artsiom Sanakoyeu, Roshan Sumbaly, Peter Vajda, Ali Thabet, 2024
 - [Improved Distribution Matching Distillation for Fast Image Synthesis](https://arxiv.org/abs/2405.14867), Tianwei Yin, Michaël Gharbi, Taesung Park, Richard Zhang, Eli Shechtman, Fredo Durand, William T. Freeman, NeurIPS 2024
-- [Transferring Knowledge from Large Foundation Models to Small Downstream Models](https://arxiv.org/abs/2406.07337), Shikai Qiu, Boran Han, Danielle C. Maddix, Shuai Zhang, Yuyang Wang, Andrew Gordon Wilson, 2024
-- [DεpS: Delayed ε-Shrinking for Faster Once-For-All Training](https://arxiv.org/abs/2407.06167), Aditya Annavajjala, Alind Khare, Animesh Agrawal, Igor Fedorov, Hugo Latapie, Myungjin Lee, Alexey Tumanov, 2024
+- [Transferring Knowledge from Large Foundation Models to Small Downstream Models](https://arxiv.org/abs/2406.07337), Shikai Qiu, Boran Han, Danielle C. Maddix, Shuai Zhang, Yuyang Wang, Andrew Gordon Wilson, ICML 2024
+- [DεpS: Delayed ε-Shrinking for Faster Once-For-All Training](https://arxiv.org/abs/2407.06167), Aditya Annavajjala, Alind Khare, Animesh Agrawal, Igor Fedorov, Hugo Latapie, Myungjin Lee, Alexey Tumanov, ECCV 2024
 - [Simple Unsupervised Knowledge Distillation With Space Similarity](https://arxiv.org/abs/2409.13939), Aditya Singh, Haohan Wang, 2024
-- [Enhancing Knowledge Distillation of Large Language Models through Efficient Multi-Modal Distribution Alignment](https://arxiv.org/abs/2409.12545), Tianyu Peng, Jiajun Zhang, 2024
-- [Generative Prompt Internalization](https://arxiv.org/abs/2411.15927), Haebin Shin, Lei Ji, Yeyun Gong, Sungdong Kim, Eunbi Choi, Minjoon Seo, 2024
+- [Enhancing Knowledge Distillation of Large Language Models through Efficient Multi-Modal Distribution Alignment](https://arxiv.org/abs/2409.12545), Tianyu Peng, Jiajun Zhang, COLING 2025
+- [Generative Prompt Internalization](https://arxiv.org/abs/2411.15927), Haebin Shin, Lei Ji, Yeyun Gong, Sungdong Kim, Eunbi Choi, Minjoon Seo, NAACL 2025
 - [ScaleKD: Strong Vision Transformers Could Be Excellent Teachers](https://arxiv.org/abs/2411.06786), Jiawei Fan, Chao Li, Xiaolong Liu, Anbang Yao, NeurIPS 2024
 - [Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation](https://arxiv.org/abs/2412.08139), Jiaming Lv, Haoyuan Yang, Peihua Li, NeurIPS 2024
 - [Adversarial Diffusion Distillation](https://arxiv.org/abs/2311.17042), Axel Sauer, Dominik Lorenz, Andreas Blattmann, Robin Rombach, ECCV 2024
@@ -237,13 +237,13 @@ Papers
 - [On the Surprising Effectiveness of Attention Transfer for Vision Transformers](https://arxiv.org/abs/2411.09702), Alexander C. Li, Yuandong Tian, Beidi Chen, Deepak Pathak, Xinlei Chen, NeurIPS 2024
 - [Jasper and Stella: distillation of SOTA embedding models](https://arxiv.org/abs/2412.19048), Dun Zhang, Jiacheng Li, Ziyang Zeng, Fulong Wang, 2024
 - [MaKD: Multi-aspect Knowledge Distillation with Large Language Model](https://arxiv.org/pdf/2501.13341), Taegyeong Lee, et al., 2025
-- [A Comprehensive Survey on Knowledge Distillation](https://arxiv.org/abs/2503.12067), Amir M. Mansourian, Rozhan Ahmadi, Masoud Ghafouri, Amir Mohammad Babaei, Elaheh Badali Golezani, Zeynab Yasamani Ghamchi, Vida Ramezanian, Alireza Taherian, Kimia Dinashi, Amirali Miri, Shohreh Kasaei, 2025
-- [Universal Cross-Tokenizer Distillation via Approximate Likelihood Matching](https://arxiv.org/abs/2503.20083), Benjamin Minixhofer, Ivan Vulić, Edoardo Maria Ponti, 2025
-- [Autoregressive Distillation of Diffusion Transformers](https://arxiv.org/abs/2504.11295), Yeongmin Kim, Sotiris Anagnostidis, Yuming Du, Edgar Schönfeld, Jonas Kohler, Markos Georgopoulos, Albert Pumarola, Ali Thabet, Artsiom Sanakoyeu, 2025
+- [A Comprehensive Survey on Knowledge Distillation](https://arxiv.org/abs/2503.12067), Amir M. Mansourian, Rozhan Ahmadi, Masoud Ghafouri, Amir Mohammad Babaei, Elaheh Badali Golezani, Zeynab Yasamani Ghamchi, Vida Ramezanian, Alireza Taherian, Kimia Dinashi, Amirali Miri, Shohreh Kasaei, TMLR 2025
+- [Universal Cross-Tokenizer Distillation via Approximate Likelihood Matching](https://arxiv.org/abs/2503.20083), Benjamin Minixhofer, Ivan Vulić, Edoardo Maria Ponti, NeurIPS 2025
+- [Autoregressive Distillation of Diffusion Transformers](https://arxiv.org/abs/2504.11295), Yeongmin Kim, Sotiris Anagnostidis, Yuming Du, Edgar Schönfeld, Jonas Kohler, Markos Georgopoulos, Albert Pumarola, Ali Thabet, Artsiom Sanakoyeu, CVPR 2025
 - [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772), Luyang Fang, Xiaowei Yu, Jiazhang Cai, Yongkai Chen, Shushan Wu, Zhengliang Liu, Zhenyuan Yang, Haoran Lu, Xilin Gong, Yufang Liu, Terry Ma, Wei Ruan, Ali Abbasi, Jing Zhang, Tao Wang, Ehsan Latif, Weihang You, Hanqi Jiang, Wei Liu, Wei Zhang, Soheil Kolouri, Xiaoming Zhai, Dajiang Zhu, Wenxuan Zhong, Tianming Liu, Ping Ma, 2025
 - [CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation](https://arxiv.org/pdf/2505.21904), Pardis Taghavi, Tian Liu, Renjie Li, Reza Langari, Zhengzhong Tu, 2025
 - [Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models](https://arxiv.org/abs/2507.07104), Tiezheng Zhang, Yitong Li, Yu-cheng Chou, Jieneng Chen, Alan Yuille, Chen Wei, Junfei Xiao, 2025
-- [Few-Shot Knowledge Distillation of LLMs With Counterfactual Explanations](https://arxiv.org/abs/2510.21631), Faisal Hamman, Pasan Dissanayake, Yanjun Fu, Sanghamitra Dutta, 2025
+- [Few-Shot Knowledge Distillation of LLMs With Counterfactual Explanations](https://arxiv.org/abs/2510.21631), Faisal Hamman, Pasan Dissanayake, Yanjun Fu, Sanghamitra Dutta, NeurIPS 2025
 - [EchoDFKD: Data-Free Knowledge Distillation for Cardiac Ultrasound Segmentation using Synthetic Data](https://arxiv.org/abs/2409.07566), Grégoire Petit, Nathan Palluau, Axel Bauer, Clemens Dlaska, 2025
 - [Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs](https://arxiv.org/abs/2402.12030), Nicolas Boizard, Kevin El Haddad, Céline Hudelot, Pierre Colombo, TMLR 2025
 - [Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2404.02657), Taiqiang Wu, Chaofan Tao, Jiahao Wang, Runming Yang, Zhe Zhao, Ngai Wong, COLING 2025
@@ -309,7 +309,7 @@ Papers
 - [On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/), Kevin Lu, Thinking Machines Lab, 2025
 - [Black-Box On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2511.10643), Tianzhu Ye, Li Dong, Zewen Chi, Xun Wu, Shaohan Huang, Furu Wei, 2025
 - [Scaling Reasoning Efficiently via Relaxed On-Policy Distillation](https://arxiv.org/abs/2603.11137), Jongwoo Ko, Sara Abdali, Young Jin Kim, Tianyi Chen, Pashmina Cameron, 2026
-- [An Empirical Study of Knowledge Distillation for Code Understanding Tasks](https://arxiv.org/abs/2508.15423), Ruiqi Wang, Zezhou Yang, Cuiyun Gao, Xin Xia, Qing Liao, 2026
+- [An Empirical Study of Knowledge Distillation for Code Understanding Tasks](https://arxiv.org/abs/2508.15423), Ruiqi Wang, Zezhou Yang, Cuiyun Gao, Xin Xia, Qing Liao, ICSE 2026
 - [To Distill or Not to Distill: When Knowledge Transfer Undermines Safety of LLMs](https://openreview.net/pdf/fed763a30898a94daf0c79a480b698875f2cf105.pdf), 2026
 - [Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator](https://arxiv.org/abs/2502.19204), Xiankang He, Dongyan Guo, Hongji Li, Ying Cui, Libo Weng, Ruibo Li, Chi Zhang, Findings of CVPR 2026
 - [OpenThoughts: Data Recipes for Reasoning Models](https://arxiv.org/abs/2506.04178), Etash Guha, et al., ICLR 2026
