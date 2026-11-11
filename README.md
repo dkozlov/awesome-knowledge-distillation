@@ -339,6 +339,7 @@ Papers
 - [Rethinking Dataset Distillation: Hard Truths about Soft Labels](https://arxiv.org/abs/2604.18811), Priyam Dey, Aditya Sahdev, Sunny Bhati, Konda Reddy Mopuri, R. Venkatesh Babu, CVPR 2026
 - [Pruning and Distilling Mixture-of-Experts into Dense Language Models](https://arxiv.org/abs/2605.28207), Junhyuck Kim, Jihun Yun, Haechan Kim, Gyeongman Kim, Joonghyun Bae, Jaewoong Cho, NeurIPS 2026
 - [MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training](https://arxiv.org/abs/2606.30406), Wenhan Ma, et al., 2026
+- [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://jmlr.org/papers/v27/23-0359.html), Luyang Fang, Haoran Lu, Yongkai Chen, Wenxuan Zhong, Ping Ma, JMLR 2026
 
 ***
 Videos
