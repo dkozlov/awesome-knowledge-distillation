@@ -155,6 +155,7 @@ Papers
 - [Focal and Global Knowledge Distillation for Detectors](https://arxiv.org/abs/2111.11837), Zhendong Yang, Zhe Li, Xiaohu Jiang, Yuan Gong, Zehuan Yuan, Danpei Zhao, Chun Yuan, CVPR 2022
 - [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://arxiv.org/abs/2110.07178), Peter West, Chandra Bhagavatula, Jack Hessel, Jena D. Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi, NAACL 2022
 - [Information Theoretic Representation Distillation](https://arxiv.org/abs/2112.00459), Roy Miles, Adrian Lopez Rodriguez, Krystian Mikolajczyk, BMVC 2022
+- [EVAX: Towards a Practical, Pro-active & Adaptive Architecture for High Performance & Security](https://doi.org/10.1109/MICRO56248.2022.00085), Samira Mirbagher Ajorpaz, Daniel Moghimi, Jeffrey Neal Collins, Gilles Pokam, Nael Abu-Ghazaleh, Dean Tullsen, MICRO 2022
 - [Consistency Models](https://arxiv.org/abs/2303.01469), Yang Song, Prafulla Dhariwal, Mark Chen, Ilya Sutskever, ICML 2023
 - [TRACT: Denoising Diffusion Models with Transitive Closure Time-Distillation](https://arxiv.org/abs/2303.04248), David Berthelot, Arnaud Autef, Jierui Lin, Dian Ang Yap, Shuangfei Zhai, Siyuan Hu, Daniel Zheng, Walter Talbott, Eric Gu, 2023
 - [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301), Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alexander Ratner, Ranjay Krishna, Chen-Yu Lee, Tomas Pfister, Findings of ACL 2023
